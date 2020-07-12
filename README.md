@@ -1,9 +1,27 @@
-<img src="img/me20160216.png" style="width:100px;" />
-
 Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> VSCode, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg" style="filter:invert(90%);"/> Kubernetes, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/go.svg" style="filter:invert(90%);"/> Go, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/python.svg" style="filter:invert(90%);"/> Python
 
 - <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/></a>
-- <a href="https://74th.tech">個人サイト</a>
+- <a href="https://74th.tech">Personal Site (Japanese)</a>
+
+## hobby developments
+
+- [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
+- [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko)
+- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs)
+- [vim Style for VSCode](https://marketplace.visualstudio.com/items/74th.vimStyle)
+- [markdown-pdf-cli](https://github.com/74th/markdown-pdf-cli)
+- [stdio tee logger](https://github.com/74th/stdio-tee-logger/)
+- [xonsh direnv](https://github.com/74th/xonsh-direnv)
+- [stime](https://github.com/74th/stime)
+
+## VSCode Activity
+
+- [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
+- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs)
+- [vim Style for VSCode](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
+- [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
+- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
+- 12.2018 『[Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)](https://booth.pm/ja/items/1314180)』
 
 ## tech books
 
@@ -17,7 +35,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
   - [技術書典 8 公開ページ](https://techbookfest.org/event/tbf08/circle/5113045810413568)
   - [技術書典マーケット](https://techbookfest.org/product/5119162372325376)
 - 09.2019 同人誌『Visual Studio Code Remote Dev & Cloud Code Guide』[技術書典 7](https://techbookfest.org/event/tbf07)
-  - Mac/Windows でも Linux 環境が得られる VSCode リモート開発機能の特徴を解説。DevContainer や、Cloud Code による Kubernetes サポート機能も解説。
+  - Mac/Windows でも Linux 環境が得られる VSCode リモート開発機能の特徴を解説。DevContainer や、Cloud Code によるhttps://github.com/74th/74th.git Kubernetes サポート機能も解説。
   - [SAMPLE(PDF)](./books/vscode-remote-book-sample.pdf), [Cover](./books/vscode-remote-book-cover.png)
   - [技術書典 7 公開ページ](https://techbookfest.org/event/tbf07/circle/5653750668591104)
   - 販売: BOOTH [book+pdf](https://74th.booth.pm/items/1575560), [pdf](https://74th.booth.pm/items/1575583)
@@ -63,28 +81,6 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - 12.2018『AWS の提供する Database Freedom からジャストな DB を考える』[DeNA re:Invent 2018 報告会](https://dena.connpass.com/event/110918/)
   - [slide](https://speakerdeck.com/74th/awsfalseti-gong-surudatabase-freedomkaraziyasutonadbwokao-eru)
 
-## hobby developments
-
-- [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector): 今開いている JSON/YAML にシュッとスキーマ適応させる VS Code 拡張機能
-- [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko): Circle-CI で kaniko を使うためのコンテナ
-- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs): VSCode のでバッグ設定集
-- [vim Style for VSCode](https://marketplace.visualstudio.com/items/74th.vimStyle): Visual Studio Code 用の Vim キーバインド拡張機能
-- [markdown-pdf-cli](https://github.com/74th/markdown-pdf-cli): VSCode の[Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)拡張機能がいい感じなので、CLI で使えるように folk したもの
-- [stdio tee logger](https://github.com/74th/stdio-tee-logger/): 標準出力でやり取りする 2 プログラムの間に入ってやりとりを外部ログファイルに出力する
-- [xonsh direnv](https://github.com/74th/xonsh-direnv): direnv を xonsh でも使えるようにした
-- [stime](https://github.com/74th/stime): time コマンドの途中の標準出力をなくしたもの
-- [Redmine All in one](https://hub.docker.com/repository/docker/74th/redmine-all-in-one)(EOL)1 コンテナで Readmine で使える拡張機能まで含めたパッケージ
-- [flying whale](https://github.com/74th/flyingwhale)(EOL)あらゆるパッケージマネージャーを、あらゆる環境で使えるように
-
-## VSCode Activity
-
-- [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector): 今開いている JSON/YAML にシュッとスキーマ適応させる VS Code 拡張機能
-- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs) VSCode のデバッグ設定集
-- [vim Style for VSCode](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle): Vim キーバインド拡張機能
-- [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC): ハイコントラストフレームの Natural Contrast
-- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast): ハイコントラストフレームの Monokai Chacoral
-- 12.2018 『[Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)](https://booth.pm/ja/items/1314180)』
-
 ## old contents
 
 ### hobby works
@@ -93,6 +89,8 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - 2015-2017 [dockernized Redmine all in one](https://hub.docker.com/r/74th/redmine-all-in-one/) -SVN, Git ホスティング、アジャイルプラグイン入りの Redmine 簡単構築
 - 2017 [MacOS 用 NVIDIA GPU(CUDA)をサポートする Tensorflow パッケージ](https://storage.googleapis.com/74thopen/tensorflow_osx/index.html)
 - 2017 [IT は遊び](http://74th.hateblo.jp) はてなブログ（更新してない）
+- 2015 [Redmine All in one](https://hub.docker.com/repository/docker/74th/redmine-all-in-one)(EOL)
+- 2015 [flying whale](https://github.com/74th/flyingwhale)(EOL)
 - [docker について Slideshare](http://www.slideshare.net/74th/docker-51305294)
 - [Docker にホームディレクトリをマウントしちゃおう - IT は遊び](http://74th.hateblo.jp/entry/2016/06/11/135335)
 - [docker は求めていたものを全て提供してくれた - IT は遊び](http://74th.hateblo.jp/entry/2015/07/05/151413)
