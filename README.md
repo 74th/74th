@@ -1,7 +1,7 @@
 Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> VSCode, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg" style="filter:invert(90%);"/> Kubernetes, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/go.svg" style="filter:invert(90%);"/> Go, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/python.svg" style="filter:invert(90%);"/> Python
 
-- <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/></a>
-- <a href="https://74th.tech">Personal Site (Japanese)</a>
+- <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/>@74th</a>
+- <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
 
 ## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> Activity
 
