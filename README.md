@@ -6,7 +6,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 ## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> Activity
 
 - [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
-- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs)
+- [Visual Studio Code Debug Specs](https://vscode-debug-specs.github.io/)
 - [vim Style for VSCode](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
 - [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
 - [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
