@@ -45,6 +45,8 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 - 💬 06.2020『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
+  - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
+  - [Slide](https://www.slideshare.net/microsoftjp/decode-2020-vs-code-meetup)
 - 📖 03.2020 同人誌『Visual Studio Code Ninja Guide』[技術書典 8](https://techbookfest.org/event/tbf08)→[技術書典応援祭](https://techbookfest.org/market)
   - VSCode を 1 秒すばやく操作する細かいテクニックガイド
   - [SAMPLE(PDF)](./books/vscode-ninja-guide-sample.pdf), [Cover](./books/vscode-ninja-guide-cover.png)
