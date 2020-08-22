@@ -3,6 +3,8 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/>@74th</a>
 - <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
 
+![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical)
+
 ## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> Activity
 
 - [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
@@ -28,6 +30,8 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 - 💬 06.2020『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
+  - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
+  - [Slide](https://www.slideshare.net/microsoftjp/decode-2020-vs-code-meetup)
 - 📖 02.2020 『Visual Studio Code 実践ガイド』技術評論社
   - VSCode の全機能の解説、TypeScript/Go/Python での実践的な開発方法、拡張機能開発から LSP の解説まで扱った実践ガイド
   - [技術評論社サイト](https://gihyo.jp/book/2020/978-4-297-11201-1)
