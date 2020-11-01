@@ -7,18 +7,33 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> Activity
 
+### Extensions
+
+- [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
+- [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
 - [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
-- [Visual Studio Code Debug Specs](https://vscode-debug-specs.github.io/)
+- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
 - [vim Style for VSCode](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
 - [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
-- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- 12.2018 『[Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)](https://booth.pm/ja/items/1314180)』
+
+### Developing
+
+- [Visual Studio Code Debug Specs](https://vscode-debug-specs.github.io/)
+- [VS Code TypeScript 開発体験 ハンズオン](https://github.com/74th/vscode-typescript-handson)
+- [Hello VS Code ハンズオン](https://github.com/vscodejp/handson-hello-vscode)
+
+### Books(Japanese)
+
+- 📖2019-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
+- 📖2020-03 [『Visual Studio Code Ninja　Guide』技術書典 8](https://74th.booth.pm/items/1973166)
+- 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
+- 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
 ## hobby developments
 
+- [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko)
-- [Visual Studio Code Debug Specs](https://github.com/74th/vscode-debug-specs)
-- [vim Style for VSCode](https://marketplace.visualstudio.com/items/74th.vimStyle)
 - [markdown-pdf-cli](https://github.com/74th/markdown-pdf-cli)
 - [stdio tee logger](https://github.com/74th/stdio-tee-logger/)
 - [xonsh direnv](https://github.com/74th/xonsh-direnv)
@@ -28,77 +43,96 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### main
 
-- 💬 06.2020『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
+- 💬 2020-06『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
   - [Slide](https://www.slideshare.net/microsoftjp/decode-2020-vs-code-meetup)
-- 📖 02.2020 『Visual Studio Code 実践ガイド』技術評論社
+- 📖 2020-02 『Visual Studio Code 実践ガイド』技術評論社
   - VSCode の全機能の解説、TypeScript/Go/Python での実践的な開発方法、拡張機能開発から LSP の解説まで扱った実践ガイド
   - [技術評論社サイト](https://gihyo.jp/book/2020/978-4-297-11201-1)
   - [書評](vscode-book-review/)
-- 📖 12.2018 商業誌『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』インプレス R&D
+- 📖 2018-12 商業誌『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』インプレス R&D
   - VSCode のデバッグ機能の使い方を、14 の言語と環境で解説！ それぞれ、Unit Test、実行プログラム、リモートプログラムでのデバッグ方法を解説。
   - [インプレス R&D サイト](https://nextpublishing.jp/book/10255.html)
   - [Amazon(オンデマンド物理書籍)](https://www.amazon.co.jp/dp/4844398628/), [BOOTH](https://booth.pm/ja/items/1314180), [達人出版会](https://tatsu-zine.com/books/vscode-debug-tech), [Kindle](https://www.amazon.co.jp/dp/B07KXGNVS2/)
 
 ### log
 
-- 💬 06.2020『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
+- 📖 2020-09 同人誌『VS Code Dev Container Guidebook』[技術書典 9](https://techbookfest.org/event/tbf09)
+  - 開発環境は全てコンテナの中へ。リモートコンテナ機能のDev Containerはどうあるべきかを考える。
+  - [技術書典マーケット(PDF販売中)](https://techbookfest.org/product/4696850535809024?productVariantID=5428870601768960)
+  - [とらのあな(物理本販売中、在庫僅少)](https://ec.toranoana.jp/tora_r/ec/item/040030858040/)
+  - [Booth(PDF販売中)](https://74th.booth.pm/items/2425642)
+- 💬 2020-06 『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
   - [Slide](https://www.slideshare.net/microsoftjp/decode-2020-vs-code-meetup)
-- 📖 03.2020 同人誌『Visual Studio Code Ninja Guide』[技術書典 8](https://techbookfest.org/event/tbf08)→[技術書典応援祭](https://techbookfest.org/market)
-  - VSCode を 1 秒すばやく操作する細かいテクニックガイド
-  - [SAMPLE(PDF)](./books/vscode-ninja-guide-sample.pdf), [Cover](./books/vscode-ninja-guide-cover.png)
+- 💬 2020-05 『VSCode で TypeScript 開発体験ハンズオン』オンライン
+  - [document, code](https://github.com/74th/vscode-typescript-handson)
+- 📖 2020-03 同人誌『Visual Studio Code Ninja Guide』[技術書典 8](https://techbookfest.org/event/tbf08)→[技術書典応援祭](https://techbookfest.org/market)
+  - VS Code を 1 秒すばやく操作する細かいテクニックガイド
+  - [SAMPLE PDF](./books/vscode-ninja-guide-sample.pdf), [Cover](./books/vscode-ninja-guide-cover.png)
+  - [Booth(PDF販売中)](https://74th.booth.pm/items/1973166)
+  - [技術書典マーケット(PDF販売中)](https://techbookfest.org/product/5119162372325376)
   - [技術書典 8 公開ページ](https://techbookfest.org/event/tbf08/circle/5113045810413568)
-  - [技術書典マーケット](https://techbookfest.org/product/5119162372325376)
-- 📖 02.2020 『Visual Studio Code 実践ガイド』技術評論社
+- 💬 2020-02 『VS Code ♡ YAML』[VS Code Meetup #3](https://vscode.connpass.com/event/166047/presentation/)
+  - [slide](https://speakerdeck.com/74th/vscodeyaml)
+- 📖 2020-02 商業誌『Visual Studio Code 実践ガイド』技術評論社
   - VSCode の全機能の解説、TypeScript/Go/Python での実践的な開発方法、拡張機能開発から LSP の解説まで扱った実践ガイド
   - [技術評論社サイト](https://gihyo.jp/book/2020/978-4-297-11201-1)
   - [書評](vscode-book-review/)
-- 💬 06.2020『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
-  - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
-- 💬 05.2020『VSCode で TypeScript 開発体験ハンズオン』オンライン
-  - [document, code](https://github.com/74th/vscode-typescript-handson)
-- 💬 01.2020『タクシー xAI を支える Kubernetes と AI データパイプラインの信頼性の取り組みについて』[SRE NEXT 2020](https://sre-next.dev/)
+- 💬 2020-01 『タクシー xAI を支える Kubernetes と AI データパイプラインの信頼性の取り組みについて』[SRE NEXT 2020](https://sre-next.dev/)
   - [slide](http://www.slideshare.net/dena_tech/xaikubernetesai-sre-next-2020?from_m_app=android)
-- 💬 01.2020『実践 VSCode リモート SSH・コンテナ開発機能』[VSCodeMeetup#2](https://vscode.connpass.com/event/160083/)
+- 💬 2020-01 『実践 VSCode リモート SSH・コンテナ開発機能』[VSCodeMeetup#2](https://vscode.connpass.com/event/160083/)
   - [slide](https://speakerdeck.com/74th/shi-jian-vscoderimotosshkontenakai-fa-ji-neng)
-- 💬 12.2019『VSCode リモート開発機能を使おう』[VSCodeMeetup#1](https://vscode.connpass.com/event/155068/)
+- 💬 2019-12 『VSCode リモート開発機能を使おう』[VSCodeMeetup#1](https://vscode.connpass.com/event/155068/)
   - [slide](https://speakerdeck.com/74th/vscoderimotokai-fa-ji-neng-ru-men)
-- 📖 09.2019 同人誌『Visual Studio Code Remote Dev & Cloud Code Guide』[技術書典 7](https://techbookfest.org/event/tbf07)
+- 📖 2019-09 同人誌『Visual Studio Code Remote Dev & Cloud Code Guide』[技術書典 7](https://techbookfest.org/event/tbf07)
   - Mac/Windows でも Linux 環境が得られる VSCode リモート開発機能の特徴を解説。DevContainer や、Cloud Code によるhttps://github.com/74th/74th.git Kubernetes サポート機能も解説。
   - [SAMPLE(PDF)](./books/vscode-remote-book-sample.pdf), [Cover](./books/vscode-remote-book-cover.png)
   - [技術書典 7 公開ページ](https://techbookfest.org/event/tbf07/circle/5653750668591104)
   - 販売: BOOTH [book+pdf](https://74th.booth.pm/items/1575560), [pdf](https://74th.booth.pm/items/1575583)
   - [技術書典マーケット](https://techbookfest.org/product/5119162372325376)
-- 📖 09.2019 同人誌『Kubernetes わいわい会の本』[技術書典 7](https://techbookfest.org/event/tbf07)
+- 📖 2019-09 同人誌『Kubernetes わいわい会の本』[技術書典 7](https://techbookfest.org/event/tbf07)
   - [技術書典 7 公開ページ](https://techbookfest.org/event/tbf07/circle/5680950428041216)
-- 💬 09.2019『Stateless Back-end server design with GKE and Cloud Memorystore by Atsushi Morimoto(DeNA)』[GCPUG Tokyo September 2019](https://gcpug-tokyo.connpass.com/event/143454/)
+- 💬 2019-09『Stateless Back-end server design with GKE and Cloud Memorystore by Atsushi Morimoto(DeNA)』[GCPUG Tokyo September 2019](https://gcpug-tokyo.connpass.com/event/143454/)
   - オートモーティブのデータ偏重サーバアプリでもサーバレスっぽくしたい！ 地図データや車両情報など多くのデータを扱う MOV AI 探客ナビサービスのサーバインフラを、Cloud Memorystore、GKE などを利用してステートレスに近づけていった過程を紹介します。
   - [slide](https://speakerdeck.com/74th/stateless-back-end-server-design-with-gke-and-cloud-memorystore)
   - [GCPUG September 2019 を開催しました。 by @papagen40734986](https://link.medium.com/k7xjpDhkp5)
-- 📖 04.2019 同人誌『Customizing Python Shell xonsh』[技術書典 6](https://techbookfest.org/event/tbf06)
+- 📖 2019-04 同人誌『Customizing Python Shell xonsh』[技術書典 6](https://techbookfest.org/event/tbf06)
   - .bashrc のカスタマイズに疲れた人が、[Python Shell xonsh](https://xon.sh/)なら Python 言語で手軽にカスタマイズができる。Python Shell のカスタマイズ方法の徹底ガイド。
   - [技術書典 6 公開ページ](https://techbookfest.org/event/tbf06/circle/52130001)
   - 販売: BOOTH [book+pdf](https://74th.booth.pm/items/1317300), [pdf](https://74th.booth.pm/items/1317313)
-- 💬 12.2018『AWS の提供する Database Freedom からジャストな DB を考える』[DeNA re:Invent 2018 報告会](https://dena.connpass.com/event/110918/)
+- 💬 2018-12『AWS の提供する Database Freedom からジャストな DB を考える』[DeNA re:Invent 2018 報告会](https://dena.connpass.com/event/110918/)
   - [slide](https://speakerdeck.com/74th/awsfalseti-gong-surudatabase-freedomkaraziyasutonadbwokao-eru)
-- 📖 12.2018 商業誌『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』インプレス R&D
+- 📖 2018-12 商業誌『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』インプレス R&D
   - VSCode のデバッグ機能の使い方を、14 の言語と環境で解説！ それぞれ、Unit Test、実行プログラム、リモートプログラムでのデバッグ方法を解説。
   - [インプレス R&D サイト](https://nextpublishing.jp/book/10255.html)
   - [Amazon(オンデマンド物理書籍)](https://www.amazon.co.jp/dp/4844398628/), [BOOTH](https://booth.pm/ja/items/1314180), [達人出版会](https://tatsu-zine.com/books/vscode-debug-tech), [Kindle](https://www.amazon.co.jp/dp/B07KXGNVS2/)
-- 📖 10.2018 同人誌『ShellScript の代わりに Python タスクランナー Fabric&Invoke を活用する技術』[技術書典 5](https://techbookfest.org/event/tbf05)
+- 📖 2018-10 同人誌『ShellScript の代わりに Python タスクランナー Fabric&Invoke を活用する技術』[技術書典 5](https://techbookfest.org/event/tbf05)
   - 既存の Shell Script や Makefile が黒魔術化している人に、Python の薄いタスクランナー Fabric&Invoke なら、Python 言語でタスクが記述できて、難しくなくて良いですよという本。
   - [技術書典 5 公開ページ](https://techbookfest.org/event/tbf05/circle/28510001)
   - 販売: BOOTH [book](https://74th.booth.pm/items/1042665), [pdf](https://74th.booth.pm/items/1042699)
-- 📖 04.2018 同人誌『構造化と性能の間を Golang で攻める技術』[技術書典 4](https://techbookfest.org/event/tbf04)
+- 📖 2018-04 同人誌『構造化と性能の間を Golang で攻める技術』[技術書典 4](https://techbookfest.org/event/tbf04)
   - Go を選ぶからには性能がほしい！ 構造化や、Go ルーチンの使い捨てなどがどの程度性能に響くかを調べてまとめた本。
   - [技術書典 4 公開ページ](https://techbookfest.org/event/tbf04/circle/12750004)
   - 販売: BOOTH [book](https://74th.booth.pm/items/861342), [pdf](https://74th.booth.pm/items/829729)
-- 📖 10.2017 同人誌『Visual Studio Code デバッグ技術』[技術書典 3](https://techbookfest.org/event/tbf03)
+- 📖 2017-10 同人誌『Visual Studio Code デバッグ技術』[技術書典 3](https://techbookfest.org/event/tbf03)
   - VSCode のデバッグ機能の使い方を、多くの言語と環境で解説！ それぞれ、Unit Test、実行プログラム、リモートプログラムでのデバッグ方法を解説。
   - 販売: 商業誌化に伴い中止
+
+## Jobs
+
+- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Motbility Technologies（事業継承） 
+  - タクシー乗務員向けAI探客ナビ（サーバサイドアーキテクト、コアAI以外でAIに必要な部分全般）
+- 2016-04 ~ 2018-03 大学ベンチャー（エンジニア派遣）
+  - 通信網リアルタイムデータ可視化システム（アーキテクト）
+  - DBエンジン研究開発（研究開発スタッフ）
+- 2010-04 ~ 2018-04 日鉄日立システムエンジニアリング
+  - SIer のアーキテクトとして、ミドルウェア選定とか、開発標準とか、共通部品とか整備して、開発技術に責任を持つ役割
+  - SFAシステムとか、マイナンバー管理ソリューションとか、医療機器メーカー向けiPadアプリとか、いろいろ
+- 2006 ~ 2009-03 金沢電子出版（大学内ベンチャー）
+  - 2006 e-Learning システム（リードプログラマ）
 
 ## old contents
 
