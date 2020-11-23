@@ -26,7 +26,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 - 📖2019-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
-- 📖2020-03 [『Visual Studio Code Ninja　Guide』技術書典 8](https://74th.booth.pm/items/1973166)
+- 📖2020-03 [『Visual Studio Code Ninja 　 Guide』技術書典 8](https://74th.booth.pm/items/1973166)
 - 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
 - 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
@@ -43,6 +43,9 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### main
 
+- 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
+  - [Movie(YouTube)](https://youtu.be/GqC5wQV2bG8?t=22111)
+  - [Slide](https://docs.google.com/presentation/d/1uhZwQxoyQuV8fYxn0a0O--J7f0dwpJhccaIMS8w-rF8/edit?usp=sharing)
 - 💬 2020-06『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
@@ -58,11 +61,16 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### log
 
+- 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
+  - 理想的な Dev Container とは何かを考え、Multi Stage Build を使って実現する
+  - Dev Container の未来も考える
+  - [Movie(YouTube)](https://youtu.be/GqC5wQV2bG8?t=22111)
+  - [Slide](https://docs.google.com/presentation/d/1uhZwQxoyQuV8fYxn0a0O--J7f0dwpJhccaIMS8w-rF8/edit?usp=sharing)
 - 📖 2020-09 同人誌『VS Code Dev Container Guidebook』[技術書典 9](https://techbookfest.org/event/tbf09)
-  - 開発環境は全てコンテナの中へ。リモートコンテナ機能のDev Containerはどうあるべきかを考える。
-  - [技術書典マーケット(PDF販売中)](https://techbookfest.org/product/4696850535809024?productVariantID=5428870601768960)
+  - 開発環境は全てコンテナの中へ。リモートコンテナ機能の Dev Container はどうあるべきかを考える。
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4696850535809024?productVariantID=5428870601768960)
   - [とらのあな(物理本販売中、在庫僅少)](https://ec.toranoana.jp/tora_r/ec/item/040030858040/)
-  - [Booth(PDF販売中)](https://74th.booth.pm/items/2425642)
+  - [Booth(PDF 販売中)](https://74th.booth.pm/items/2425642)
 - 💬 2020-06 『あらゆるエンジニアを支援！ VS Code Meetup の紹介とハンズオンで活躍するテクニック集』[de:code 2020](https://www.microsoft.com/ja-jp/events/decode/)
   - [session page](https://www.microsoft.com/ja-jp/events/decode/2020session/detail.aspx?sid=C02&tk=C)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=1xkSfy-ylhU)
@@ -72,8 +80,8 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - 📖 2020-03 同人誌『Visual Studio Code Ninja Guide』[技術書典 8](https://techbookfest.org/event/tbf08)→[技術書典応援祭](https://techbookfest.org/market)
   - VS Code を 1 秒すばやく操作する細かいテクニックガイド
   - [SAMPLE PDF](./books/vscode-ninja-guide-sample.pdf), [Cover](./books/vscode-ninja-guide-cover.png)
-  - [Booth(PDF販売中)](https://74th.booth.pm/items/1973166)
-  - [技術書典マーケット(PDF販売中)](https://techbookfest.org/product/5119162372325376)
+  - [Booth(PDF 販売中)](https://74th.booth.pm/items/1973166)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/5119162372325376)
   - [技術書典 8 公開ページ](https://techbookfest.org/event/tbf08/circle/5113045810413568)
 - 💬 2020-02 『VS Code ♡ YAML』[VS Code Meetup #3](https://vscode.connpass.com/event/166047/presentation/)
   - [slide](https://speakerdeck.com/74th/vscodeyaml)
@@ -123,14 +131,14 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ## Jobs
 
-- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Motbility Technologies（事業継承） 
-  - タクシー乗務員向けAI探客ナビ（サーバサイドアーキテクト、コアAI以外でAIに必要な部分全般）
+- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Motbility Technologies（事業継承）
+  - タクシー乗務員向け AI 探客ナビ（サーバサイドアーキテクト、コア AI 以外で AI に必要な部分全般）
 - 2016-04 ~ 2018-03 大学ベンチャー（エンジニア派遣）
   - 通信網リアルタイムデータ可視化システム（アーキテクト）
-  - DBエンジン研究開発（研究開発スタッフ）
+  - DB エンジン研究開発（研究開発スタッフ）
 - 2010-04 ~ 2018-04 日鉄日立システムエンジニアリング
   - SIer のアーキテクトとして、ミドルウェア選定とか、開発標準とか、共通部品とか整備して、開発技術に責任を持つ役割
-  - SFAシステムとか、マイナンバー管理ソリューションとか、医療機器メーカー向けiPadアプリとか、いろいろ
+  - SFA システムとか、マイナンバー管理ソリューションとか、医療機器メーカー向け iPad アプリとか、いろいろ
 - 2006 ~ 2009-03 金沢電子出版（大学内ベンチャー）
   - 2006 e-Learning システム（リードプログラマ）
 
