@@ -2,6 +2,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 - <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/>@74th</a>
 - <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
+- <a href="https://74th.booth.pm/">shop 74th(tech fun Books and build-your-own Keyboard)</a>
 
 ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical)
 
@@ -32,6 +33,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ## hobby developments
 
+- [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko)
 - [markdown-pdf-cli](https://github.com/74th/markdown-pdf-cli)
