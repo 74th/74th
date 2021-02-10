@@ -19,6 +19,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### Developing
 
+- [eBNF Parser for Language Server](https://github.com/74th/ls-ebnf-parser)
 - [Visual Studio Code Debug Specs](https://vscode-debug-specs.github.io/)
 - [VS Code TypeScript 開発体験 ハンズオン](https://github.com/74th/vscode-typescript-handson)
 - [Hello VS Code ハンズオン](https://github.com/vscodejp/handson-hello-vscode)
@@ -45,6 +46,9 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### main
 
+- 💬 2021-02『VS Code Day 2021 Recap 』
+  [VS Code Meetup #9](https://vscode.connpass.com/event/202684/)
+  - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
 - 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
   - [Movie(YouTube)](https://youtu.be/GqC5wQV2bG8?t=22111)
   - [Slide](https://docs.google.com/presentation/d/1uhZwQxoyQuV8fYxn0a0O--J7f0dwpJhccaIMS8w-rF8/edit?usp=sharing)
