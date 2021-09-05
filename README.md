@@ -71,6 +71,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 - 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
   - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
+  - [Movie(Youtube)](https://youtu.be/9kavX6mBmw4?t=1891)
   - VS Code の拡張機能開発を始めるための、拡張機能開発の概念を中心に解説
 - 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4548114826395648)
