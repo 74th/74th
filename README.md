@@ -26,6 +26,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### Books(Japanese)
 
+- 📖2021-07[『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2019-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja 　 Guide』技術書典 8](https://74th.booth.pm/items/1973166)
@@ -34,6 +35,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ## hobby developments
 
+- [Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
 - [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko)
@@ -46,9 +48,9 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### main
 
-- 💬 2021-02『VS Code Day 2021 Recap 』
-  [VS Code Meetup #9](https://vscode.connpass.com/event/202684/)
-  - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
+- 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4548114826395648)
+  - 技術書典 3 で頒布した『VS Code デバッグ技術』ですが、2021 年現在に語るべき VS Code のデバッグは大きく変化しました。VS Code 内にブラウザを開く拡張機能、リモート開発機能、Dev Container、Raspberry Pi Pico のでバッグなどなど。2021 年現在に最新化した 8 言語解説はありますが、多くのページ（92p）を「デバッグ応用技術編」として書き下ろしました。あまりデバッグに馴染みのない方への「デバッグ機能の基本編」も収録しています。 ぜひ VS Code で今できる最新のデバッグ技術をお楽しみください。
 - 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
   - [Movie(YouTube)](https://youtu.be/GqC5wQV2bG8?t=22111)
   - [Slide](https://docs.google.com/presentation/d/1uhZwQxoyQuV8fYxn0a0O--J7f0dwpJhccaIMS8w-rF8/edit?usp=sharing)
@@ -67,6 +69,18 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### log
 
+- 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
+  - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
+  - VS Code の拡張機能開発を始めるための、拡張機能開発の概念を中心に解説
+- 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4548114826395648)
+  - 技術書典 3 で頒布した『VS Code デバッグ技術』ですが、2021 年現在に語るべき VS Code のデバッグは大きく変化しました。VS Code 内にブラウザを開く拡張機能、リモート開発機能、Dev Container、Raspberry Pi Pico のでバッグなどなど。2021 年現在に最新化した 8 言語解説はありますが、多くのページ（92p）を「デバッグ応用技術編」として書き下ろしました。あまりデバッグに馴染みのない方への「デバッグ機能の基本編」も収録しています。 ぜひ VS Code で今できる最新のデバッグ技術をお楽しみください。
+- 💬 2021-02『VS Code Day 2021 Recap 』
+  [VS Code Meetup #9](https://vscode.connpass.com/event/202684/)
+  - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
+- 📖 2020-12『VS Code Meetup Book』[技術書典 10](https://techbookfest.org/event/tbf10)
+  - 記事『Hello VS Code ハンズオン』『Pylance で Python の型を極める』
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/5691779347120128?productVariantID=5564437123563520)
 - 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
   - 理想的な Dev Container とは何かを考え、Multi Stage Build を使って実現する
   - Dev Container の未来も考える
