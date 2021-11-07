@@ -165,7 +165,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ## Jobs
 
-- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Motbility Technologies（事業継承）
+- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Mobility Technologies（事業継承）
   - タクシー乗務員向け AI 探客ナビ（サーバサイドアーキテクト、コア AI 以外で AI に必要な部分全般）
 - 2016-04 ~ 2018-03 大学ベンチャー（エンジニア派遣）
   - 通信網リアルタイムデータ可視化システム（アーキテクト）
