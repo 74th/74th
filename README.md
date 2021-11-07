@@ -29,7 +29,7 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
-- 📖2020-03 [『Visual Studio Code Ninja 　 Guide』技術書典 8](https://74th.booth.pm/items/1973166)
+- 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
 - 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
 - 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
