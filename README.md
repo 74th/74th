@@ -74,10 +74,15 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### log
 
+- 💬 2021-11『Visual Studio Code アップデート』[VS Code Meetup #16](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
+  - [Movie(YouTube)](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
+  - [Document(github)](https://github.com/74th/vscode-update-Oct2021)
+- 💬 2021-10『MoT TechTalk #7 ​​ 技術書典頒布のタクシーアプリ『GO』アーキテクチャ図録を一挙解説』[MoT Teck Talk #7](https://jtx.connpass.com/event/226030/)
+  - [Movie(YouTube)](https://www.youtube.com/watch?v=jvwZCNfgwZQ)
+  - [Slide(Speakerdeck)](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-7-ji-shu-shu-dian-ban-bu-falsetakusiapuri-go-akitekutiyatu-lu-wo-ju-jie-shuo)
 - 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
   - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
   - [Movie(Youtube)](https://youtu.be/9kavX6mBmw4?t=1891)
-  - VS Code の拡張機能開発を始めるための、拡張機能開発の概念を中心に解説
 - 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4548114826395648)
   - 技術書典 3 で頒布した『VS Code デバッグ技術』ですが、2021 年現在に語るべき VS Code のデバッグは大きく変化しました。VS Code 内にブラウザを開く拡張機能、リモート開発機能、Dev Container、Raspberry Pi Pico のでバッグなどなど。2021 年現在に最新化した 8 言語解説はありますが、多くのページ（92p）を「デバッグ応用技術編」として書き下ろしました。あまりデバッグに馴染みのない方への「デバッグ機能の基本編」も収録しています。 ぜひ VS Code で今できる最新のデバッグ技術をお楽しみください。
