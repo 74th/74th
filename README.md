@@ -43,8 +43,6 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 - [Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
 - [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-- [circleci-kaniko](https://hub.docker.com/repository/docker/74th/circleci-kaniko)
-- [markdown-pdf-cli](https://github.com/74th/markdown-pdf-cli)
 - [stdio tee logger](https://github.com/74th/stdio-tee-logger/)
 - [xonsh direnv](https://github.com/74th/xonsh-direnv)
 - [stime](https://github.com/74th/stime)
