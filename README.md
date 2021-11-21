@@ -1,12 +1,12 @@
-Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> VSCode, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg" style="filter:invert(90%);"/> Kubernetes, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/go.svg" style="filter:invert(90%);"/> Go, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/python.svg" style="filter:invert(90%);"/> Python
+Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg"/> VSCode, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/go.svg"/> Go, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/python.svg"/> Python
 
-- <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg" style="filter:invert(90%);"/>@74th</a>
+- <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg"/>Twitter: @74th</a>
 - <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
 - <a href="https://74th.booth.pm/">shop 74th(tech fun Books and build-your-own Keyboard)</a>
 
 ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical)
 
-## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg" style="filter:invert(90%);"/> Activity
+## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg"/> Activity
 
 ### Extensions
 
@@ -53,6 +53,10 @@ Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-
 
 ### main
 
+- 💬 2021-11『PlatformIO で シュッと Arduino 開発を高速化しよう!(Speed up your Arduino development with PlatformIO!)』[VS Code Conference Japan 2021](https://vscodejp.github.io/conf2021/ja/)
+  - 近年 Arduino を使った IoT 機器の開発が電子工作でもよく行われるようになりました かつての組み込みソフトウェアの開発では、マイコンベンダーが提供する IDE を使用するのが当たり前でした。 現在は、PlatformIO を使うことによって、組み込みソフトウェアの開発をシュッっと行ことができます。 PlatformIO は、 VS Code の拡張機能として、環境構築からビルド、アップロード、デバッグまでの一連のワークフローを提供してくれます。 本セッションでは、Arduino 開発で PlatformIO を使う場合、PlatformIO が何を担ってくれるのかを解説しながら、実際に VS Code でどのように開発ができるのかを説明していきます。
+  - [Movie](https://youtu.be/AAVTnEa4vEs?t=2100)
+  - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vQCn-ntZLAU5FgdFp0nmC2Fn2PmQ1wjaFv3IQ16WNdsSFLCis7rM0FrtMSLTQteqRdj5CKpFz3agZEw/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4548114826395648)
   - 技術書典 3 で頒布した『VS Code デバッグ技術』ですが、2021 年現在に語るべき VS Code のデバッグは大きく変化しました。VS Code 内にブラウザを開く拡張機能、リモート開発機能、Dev Container、Raspberry Pi Pico のでバッグなどなど。2021 年現在に最新化した 8 言語解説はありますが、多くのページ（92p）を「デバッグ応用技術編」として書き下ろしました。あまりデバッグに馴染みのない方への「デバッグ機能の基本編」も収録しています。 ぜひ VS Code で今できる最新のデバッグ技術をお楽しみください。
