@@ -1,12 +1,13 @@
-Software Engineer ♡ <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg"/> VSCode, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/go.svg"/> Go, <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/python.svg"/> Python
+## Software Engineer ♡ <img height="25" width="25" src="./images/visualstudiocode.svg"/> VSCode, <img height="25" width="25" src="./images/kubernetes.svg"/> Kubernetes, <img height="25" width="25" src="./images/go.svg"/> Go, <img height="25" width="25" src="./images/python.svg"/> Python
 
-- <a href="https://twitter.com/74th"><img height="20" width="20" src="https://simpleicons.org/icons/twitter.svg"/>Twitter: @74th</a>
+- <a href="https://twitter.com/74th"><img height="20" width="20" src="./images/twitter.svg"/>Twitter: @74th</a>
+- <a href="https://github.com/74th"><img height="20" width="20" src="./images/github.svg"/>github: 74th</a>
 - <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
 - <a href="https://74th.booth.pm/">shop 74th(tech fun Books and build-your-own Keyboard)</a>
 
 ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical)
 
-## VS Code <img height="20" width="20" src="https://unpkg.com/simple-icons@latest/icons/visualstudiocode.svg"/> Activity
+## VS Code <img height="25" width="25" src="./images/visualstudiocode.svg"/> Activity
 
 ### Extensions
 
