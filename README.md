@@ -28,6 +28,7 @@
 ### Books(Japanese)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- 📖2022-01 [『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://techbookfest.org/event/tbf12)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
@@ -52,6 +53,9 @@
 
 ### main
 
+- 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - 自作キーボードの製作をきっかけに電子工作の世界に入門し、最初は意味不明だったさまざまなことを、4 つのガジェットの製作を通じて電子工作について理解し習得しました。ガジェット製作にどのようなことを考えて取り組んだのか、またそこでえた知識をざっくりとまとめました。これから電子工作にふれてみたい方も、電子工作に心得のある方も、プロの方も、楽しくガジェットづくりをしているのが伝わればと思います。
 - 💬 2021-11『PlatformIO で シュッと Arduino 開発を高速化しよう!(Speed up your Arduino development with PlatformIO!)』[VS Code Conference Japan 2021](https://vscodejp.github.io/conf2021/ja/)
   - 近年 Arduino を使った IoT 機器の開発が電子工作でもよく行われるようになりました かつての組み込みソフトウェアの開発では、マイコンベンダーが提供する IDE を使用するのが当たり前でした。 現在は、PlatformIO を使うことによって、組み込みソフトウェアの開発をシュッっと行ことができます。 PlatformIO は、 VS Code の拡張機能として、環境構築からビルド、アップロード、デバッグまでの一連のワークフローを提供してくれます。 本セッションでは、Arduino 開発で PlatformIO を使う場合、PlatformIO が何を担ってくれるのかを解説しながら、実際に VS Code でどのように開発ができるのかを説明していきます。
   - [Movie](https://youtu.be/AAVTnEa4vEs?t=2100)
