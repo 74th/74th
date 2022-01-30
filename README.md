@@ -37,7 +37,7 @@
 
 ## hobby developments
 
-<img src="images/sparrow62.jpg" width="33%"/><img src="images/sparrow24-ble-calculator.jpg" width="33%"/><img src="images/dive9.jpg" width="33%"/>
+<img src="images/sparrow62-with-trackpad.jpg" width="33%"/><img src="images/sparrow24-ble-calculator.jpg" width="33%"/><img src="images/dive9.jpg" width="33%"/>
 
 - [Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - [Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
