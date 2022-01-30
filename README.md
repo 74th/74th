@@ -77,6 +77,16 @@
 
 ### log
 
+- 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - 自作キーボードの製作をきっかけに電子工作の世界に入門し、最初は意味不明だったさまざまなことを、4 つのガジェットの製作を通じて電子工作について理解し習得しました。ガジェット製作にどのようなことを考えて取り組んだのか、またそこでえた知識をざっくりとまとめました。これから電子工作にふれてみたい方も、電子工作に心得のある方も、プロの方も、楽しくガジェットづくりをしているのが伝わればと思います。
+- 📖 2022-01『Tech It Up Vol.1 by Mobility Technologies』[技術書典 12](https://techbookfest.org/event/tbf12)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4779518235508736?productVariantID=6574545760681984)
+  - 会社のメンバーと作った本。『Go ルーチンで高スループットシステムを構築する時の実装パターン』を寄稿。
+- 💬 2021-11『ViVSode で実践！Kubernetes 上のアプリのデバッグ実行手法』[CloudNative Days Tokyo 2021](https://event.cloudnativedays.jp/cndt2021/)
+  - [Movie, Information](https://event.cloudnativedays.jp/cndt2021/talks/1245)
+  - [Slide](https://docs.google.com/presentation/d/1bWNdLp3_EbVsgfOIW553wm3JMx3hUHf6w6i2fQ64ZWo/edit?usp=sharing)
+  - Kubernetes 上で複数のマイクロサービスが協調動作する環境が一般的になってきました。その環境上でしか動作しないアプリケーションを、開発時のようにステップ実行してデバッグすること（以下、デバッグ実行）を諦めている方も多いと思います。VS Code では、Kubernetes 上でアプリケーションをデバッグ実行する拡張機能が複数公開されています。本セッションでは、以下の 3 つのデバッグ実行の手法について、方法とその制約を解説、実演します。
 - 💬 2021-11『Visual Studio Code アップデート』[VS Code Meetup #16](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
   - [Document(github)](https://github.com/74th/vscode-update-Oct2021)
