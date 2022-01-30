@@ -37,7 +37,7 @@
 
 ## hobby developments
 
-<img src="images/sparrow62.jpg" width="30%"/> <img src="images/sparrow24-ble-calculator.jpg" width="30%"/> <img src="images/dive9.jpg" width="30%"/>
+<img src="images/sparrow62.jpg" width="33%"/><img src="images/sparrow24-ble-calculator.jpg" width="33%"/><img src="images/dive9.jpg" width="33%"/>
 
 [![](images/sparrow62.jpg)](https://booth.pm/ja/items/2525427)
 [![](images/sparrow24-ble-calculator.jpg)](https://74th.booth.pm/items/3338904)
