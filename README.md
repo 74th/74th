@@ -80,6 +80,15 @@
 
 ### log
 
+- 💬 2022-08『VS Code Meetup #21 - もう一度知りたい基礎編 - ファイル操作、コーディングの基本編』[VS Code Meetup #21](https://vscode.connpass.com/event/254942/)
+  - [Movie(YouTube)](https://youtu.be/lHwAOT1M-tE?t=265)
+  - [触れた内容のスライド](https://speakerdeck.com/74th/vs-code-meetup-number-21-mou-du-zhi-ritaiji-chu-bian-huairucao-zuo-kodeingufalseji-ben-bian)
+- 💬 2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)
+  - [Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
+  - [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)
+- 💬 2022-01『MoT TeckTalk #10 タクシーアプリ GO で AI と GCP を駆使しリアルタイムにタクシー需要を予測！アーキテクチャ全貌公開』[MoT TeckTalk #10](https://jtx.connpass.com/event/236252/)
+  - [Slide](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-10-takusiapurigodeaitogcpwoqu-shi-siriarutaimunitakusixu-yao-woyu-ce-akitekutiyaquan-mao-gong-kai)
+  - [Movie(YouTube)](https://www.youtube.com/watch?v=3FS1HVgcs54)
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - 自作キーボードの製作をきっかけに電子工作の世界に入門し、最初は意味不明だったさまざまなことを、4 つのガジェットの製作を通じて電子工作について理解し習得しました。ガジェット製作にどのようなことを考えて取り組んだのか、またそこでえた知識をざっくりとまとめました。これから電子工作にふれてみたい方も、電子工作に心得のある方も、プロの方も、楽しくガジェットづくりをしているのが伝わればと思います。
