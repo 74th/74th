@@ -28,6 +28,7 @@
 ### Books(Japanese)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- 📖2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
 - 📖2022-01 [『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://techbookfest.org/event/tbf12)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
@@ -35,23 +36,29 @@
 - 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
 - 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
-## hobby developments
+## Maker and OSS Development
 
 <img src="images/sparrow62v2.jpg" width="40%"/><img src="images/sparrow24-ble-calculator.jpg" width="25%"/><img src="images/dive9.jpg" width="35%"/>
 
-- [Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
-- [Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
-- [Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
-- [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
+- 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
+- ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
+- ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
+- 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
+- ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-- [stdio tee logger](https://github.com/74th/stdio-tee-logger/)
 - [xonsh direnv](https://github.com/74th/xonsh-direnv)
-- [stime](https://github.com/74th/stime)
 
-## tech books📖 and talks💬
+## tech books📖 and talks💬 and makes🛠
 
 ### main
 
+- 🛠 2022-09『RP2040を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
+  - [Booth 販売中](https://74th.booth.pm/items/3929664)
+  - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
+- 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
+  - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - Wi-Fi 対応の Pico W をクラウドにつないだり、PicoのマイコンRP2040 を直接実装して苦しんだりします。
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - 自作キーボードの製作をきっかけに電子工作の世界に入門し、最初は意味不明だったさまざまなことを、4 つのガジェットの製作を通じて電子工作について理解し習得しました。ガジェット製作にどのようなことを考えて取り組んだのか、またそこでえた知識をざっくりとまとめました。これから電子工作にふれてみたい方も、電子工作に心得のある方も、プロの方も、楽しくガジェットづくりをしているのが伝わればと思います。
@@ -80,12 +87,30 @@
 
 ### log
 
+- 🛠 2022-09『ESP32-S3 USB-C 開発ボードキット』
+  - [Booth 販売中](https://74th.booth.pm/items/4179263)
+  - ESP32-S3-WROOM-1 を使った開発ボード 
+    - ピンヘッダは ESP32-S3-DevKitC 互換の配置
+    - 10 ピンブレッドボードに挿しても、左右 1 ピン空いている
+    - ESP-Prog の USB シリアル変換のボックスピンヘッダを持つ
+    - USB Type-C を持つ
+- 🛠 2022-09『RP2040を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
+  - [Booth 販売中](https://74th.booth.pm/items/3929664)
+  - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
+- 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
+  - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
+  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - Wi-Fi 対応の Pico W をクラウドにつないだり、PicoのマイコンRP2040 を直接実装して苦しんだりします。 
 - 💬 2022-08『VS Code Meetup #21 - もう一度知りたい基礎編 - ファイル操作、コーディングの基本編』[VS Code Meetup #21](https://vscode.connpass.com/event/254942/)
   - [Movie(YouTube)](https://youtu.be/lHwAOT1M-tE?t=265)
   - [触れた内容のスライド](https://speakerdeck.com/74th/vs-code-meetup-number-21-mou-du-zhi-ritaiji-chu-bian-huairucao-zuo-kodeingufalseji-ben-bian)
 - 💬 2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)
   - [Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
   - [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)
+- 🛠 2020-03『USB 2.0 Type-C コネクタ変換基盤（40枚綴り）』
+  - [Booth(販売中)](https://74th.booth.pm/items/3678316)
+- 🛠 2020-02『RP2040変換ボード』
+  - [Booth(販売中)](https://74th.booth.pm/items/3678267)
 - 💬 2022-01『MoT TeckTalk #10 タクシーアプリ GO で AI と GCP を駆使しリアルタイムにタクシー需要を予測！アーキテクチャ全貌公開』[MoT TeckTalk #10](https://jtx.connpass.com/event/236252/)
   - [Slide](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-10-takusiapurigodeaitogcpwoqu-shi-siriarutaimunitakusixu-yao-woyu-ce-akitekutiyaquan-mao-gong-kai)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=3FS1HVgcs54)
@@ -105,7 +130,27 @@
 - 💬 2021-10『MoT TechTalk #7 ​​ 技術書典頒布のタクシーアプリ『GO』アーキテクチャ図録を一挙解説』[MoT Teck Talk #7](https://jtx.connpass.com/event/226030/)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=jvwZCNfgwZQ)
   - [Slide(Speakerdeck)](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-7-ji-shu-shu-dian-ban-bu-falsetakusiapuri-go-akitekutiyatu-lu-wo-ju-jie-shuo)
-- 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
+- ⌨ 2021-09『Sparrow24 BLE Calculator』
+  - [Booth 販売中](https://74th.booth.pm/items/3338904)
+  - [Build Guide](https://github.com/74th/sparrow24-ble-calculator-buildguide)
+  - [Firmware](https://github.com/74th/sparrow24-ble-calculator-firmware)
+  - Bluetooth テンキーキーボードと電卓が合体したガジェットが作れるキット
+  - ESP32 マイコンを用いて、Bluetooth キーボードとして動作するテンキーパッド（ESP32 なので技適は問題なし）です。
+  - モードを切り替えると電卓として動作します。
+  - 電卓の結果を、Bluetooth キーボードのキーとして送ることができます。
+  - 乾電池と USB 電源のどちらでも使えます（ただし電池ホルダーは付属しません）。
+  - ファームウェアを書き込む UART に容易にアクセスでき、ファームウェアを更新することができます。
+  - ファームウェアはオープンソースとして公開しています。ぜひ機能をリクエストいただいたり、開発に参加ください。 
+- ⌨ 2021-08『DIY 音楽ゲームコントr−ラー Dive 9』
+  - [Booth (販売終了)](https://74th.booth.pm/items/3168541)
+  - [Build Guide](https://github.com/74th/dive9-buildguide)
+  - 自作キーボードのファームウェア、QMK Firmwareを利用した、音楽ゲームコントローラーの制作キット
+  - USBゲームパッドとして認識し、9 キーの同時押しに対応します
+  - 9キーはキーのサイズから2Uのスタビライザーを利用して、打鍵の安定性を向上させています
+  - 試技中以外の設定等で使える追加の4キーがあります
+  - キーボード自体の設定の切り替えや、音量の調整に使えるOPTIONキーがあります
+  - 反応までのストロークが1.5mmの薄型キースイッチKailh Choc v1を利用します 
+  - 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
   - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
   - [Movie(Youtube)](https://youtu.be/9kavX6mBmw4?t=1891)
 - 📖 2021-07『VS Code デバッグ技術 第 2 版』[技術書典 11](https://techbookfest.org/event/tbf11)
@@ -114,12 +159,26 @@
 - 📖 2021-07『Mobility Technologies アーキテクチャー全て』[技術書典 11](https://techbookfest.org/event/tbf11)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/5873782252109824?productVariantID=4622977314324480)
   - 企画、および記事『『お客様探索ナビ』サービス監視アーキテクチャー』執筆
+- ⌨ 2021-02『キートップシール Montserrat』
+  - [Booth 販売中](https://74th.booth.pm/items/2731094)
+  - キーボードのキートップに使える透過シールです。黒いキーキャップに映える、すらっとした細い文字文字を入れたく、作成しました。
 - 💬 2021-02『VS Code Day 2021 Recap 』
   [VS Code Meetup #9](https://vscode.connpass.com/event/202684/)
   - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
 - 📖 2020-12『VS Code Meetup Book』[技術書典 10](https://techbookfest.org/event/tbf10)
   - 記事『Hello VS Code ハンズオン』『Pylance で Python の型を極める』
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/5691779347120128?productVariantID=5564437123563520)
+- ⌨ 2020-11『Sparrow62 自作キーボードキット』
+  - [Booth 販売終了](https://74th.booth.pm/items/2525427)
+  - [Firmware(QMK)](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sparrow62)
+  - Lily58に触発された、自作キーボードの作成キット
+  - 薄型キースイッチ Kailh Choc V1/V2 が使えること。
+  - Cherry MX 互換キースイッチが使えること。
+  - 縦に揃ったキー配置(カラムスタッガード)であること。
+  - 十分キーの数が多いこと。
+  - 極限の薄さを追求（Pro Microが横にある、ゴム足ではなくゴムシートを使用）
+  - キースイッチ交換可能なようにKailhソケットを使うこと。
+  - MagicTrackpadを使うのに効率的な配置と高さ（トラックパッド用セットの場合） 
 - 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
   - 理想的な Dev Container とは何かを考え、Multi Stage Build を使って実現する
   - Dev Container の未来も考える
