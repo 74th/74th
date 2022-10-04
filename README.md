@@ -20,6 +20,8 @@
 
 ### Books and Talks(Japanese)
 
+<img src="images/vscode-practical-guide.jpg" width="20%"/>
+
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
