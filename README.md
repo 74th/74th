@@ -32,14 +32,12 @@
 
 ## Maker and OSS Development
 
-<img src="images/sparrow62v2.jpg" width="40%"/><img src="images/sparrow24-ble-calculator.jpg" width="25%"/><img src="images/dive9.jpg" width="35%"/>
+<img src="images/rp2040-dev-board.png" width="30%"/><img src="images/sparrow62v2.jpg" width="30%"/><img src="images/sparrow24-ble-calculator.jpg" width="15%"/><img src="images/dive9.jpg" width="25%"/>
 
 - 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
 - ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
 - ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
-- 📖[土曜日の Raspberry Pi Pico](https://74th.booth.pm/items/4161550)
-- 📖[4 つのガジェット製作でえた電子工作の知識](https://74th.booth.pm/items/4123011)
 - ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
@@ -47,9 +45,6 @@
 
 ### main
 
-- 🛠 2022-09『RP2040を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
-  - [Booth 販売中](https://74th.booth.pm/items/3929664)
-  - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
