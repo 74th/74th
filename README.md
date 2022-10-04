@@ -106,9 +106,9 @@
 - 💬 2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)
   - [Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
   - [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)
-- 🛠 2020-03『USB 2.0 Type-C コネクタ変換基盤（40枚綴り）』
+- 🛠 2022-03『USB 2.0 Type-C コネクタ変換基盤（40枚綴り）』
   - [Booth(販売中)](https://74th.booth.pm/items/3678316)
-- 🛠 2020-02『RP2040変換ボード』
+- 🛠 2022-02『RP2040変換ボード』
   - [Booth(販売中)](https://74th.booth.pm/items/3678267)
 - 💬 2022-01『MoT TeckTalk #10 タクシーアプリ GO で AI と GCP を駆使しリアルタイムにタクシー需要を予測！アーキテクチャ全貌公開』[MoT TeckTalk #10](https://jtx.connpass.com/event/236252/)
   - [Slide](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-10-takusiapurigodeaitogcpwoqu-shi-siriarutaimunitakusixu-yao-woyu-ce-akitekutiyaquan-mao-gong-kai)
