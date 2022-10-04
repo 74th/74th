@@ -32,7 +32,7 @@
 
 ## Maker and OSS Development
 
-<img src="images/rp2040-dev-board.png" width="30%"/><img src="images/sparrow62v2.jpg" width="30%"/><img src="images/sparrow24-ble-calculator.jpg" width="15%"/><img src="images/dive9.jpg" width="25%"/>
+<img src="images/rp2040-dev-board.png" width="20%"/><img src="images/sparrow62v2.jpg" width="40%"/><img src="images/sparrow24-ble-calculator.jpg" width="15%"/><img src="images/dive9.jpg" width="25%"/>
 
 - 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
 - ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
