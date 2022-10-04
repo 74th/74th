@@ -36,18 +36,20 @@
 
 [<img src="images/rp2040-dev-board.png" width="20%"/>](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)[<img src="images/sparrow62v2.jpg" width="40%"/>](https://74th.booth.pm/items/3828479)[<img src="images/sparrow24-ble-calculator.jpg" width="15%"/>](https://74th.booth.pm/items/3338904)[<img src="images/dive9.jpg" width="25%"/>](https://booth.pm/ja/items/3168541)
 
+[<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
+
 - 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
 - ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
 - ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
 - ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
+- 📖[『土曜日の Raspberry Pi Pico』技術書典 13](https://74th.booth.pm/items/4161550)
+- 📖[『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://74th.booth.pm/items/4123011)
 - <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
 ## tech books📖 and talks💬 and makes🛠
 
 ### main
-
-[<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
