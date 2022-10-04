@@ -23,7 +23,7 @@
 [<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="http://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="20%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)[<img src="images/vscode-debug-book2.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/vscode-debug-book1.jpg" width="20%"/>](https://nextpublishing.jp/book/10255.html)[<img src="images/vscode-ninja-guide.png" width="15%"/>](https://74th.booth.pm/items/1575560)[<img src="images/vscode-remote-book.png" width="15%"/>](https://74th.booth.pm/items/1575560)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- 📖2022-09 [『0Software Design 2022年10月号/第1特集エディタこそ開発の要［最大活用］Visual Studio Code/第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖2022-09 [『Software Design 2022年10月号/第1特集エディタこそ開発の要［最大活用］Visual Studio Code/第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
@@ -58,7 +58,8 @@
   - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - Wi-Fi 対応の Pico W をクラウドにつないだり、PicoのマイコンRP2040 を直接実装して苦しんだりします。
-- 📖2022-09 [『0Software Design 2022年10月号/第1特集エディタこそ開発の要［最大活用］Visual Studio Code/第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖2022-09 『Software Design 2022年10月号/第1特集エディタこそ開発の要［最大活用］Visual Studio Code/第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+  - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - 執筆！
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
   - [Booth PDF、物理書籍販売中](https://74th.booth.pm/items/4123011)
@@ -99,6 +100,9 @@
 - 🛠 2022-09『RP2040を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth 販売中](https://74th.booth.pm/items/3929664)
   - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
+- 📖2022-09 『Software Design 2022年10月号/第1特集エディタこそ開発の要［最大活用］Visual Studio Code/第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+  - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
+  - 執筆！
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
