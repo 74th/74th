@@ -20,7 +20,7 @@
 
 ### Books and Talks(Japanese)
 
-[<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="images/vscode-debug-book2.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/vscode-debug-book1.jpg" width="20%"/>](https://nextpublishing.jp/book/10255.html)
+[<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="images/vscode-debug-book2.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/vscode-debug-book1.jpg" width="20%"/>](https://nextpublishing.jp/book/10255.html)[<img src="images/vscode-ninja-guide.png" width="15%"/>](https://74th.booth.pm/items/1575560)[<img src="images/vscode-remote-book.png" width="15%"/>](https://74th.booth.pm/items/1575560)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
