@@ -45,8 +45,8 @@
 - ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
 - ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
-- <img height="15" width="15" src="./images/visualstudiocode.svg"/>[High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-- <img height="15" width="15" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
+- <img height="20" width="20" src="./images/visualstudiocode.svg"/>[High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
+- <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
 ## tech books📖 and talks💬 and makes🛠
 
