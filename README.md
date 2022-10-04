@@ -13,26 +13,20 @@
 
 - [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
-- [JSON YAML Schema Selector](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
 - [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- [vim Style for VSCode](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
 - [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
+- [vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
+- [JSON YAML Schema Selector(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
 
-### Developing
-
-- [eBNF Parser for Language Server](https://github.com/74th/ls-ebnf-parser)
-- [Visual Studio Code Debug Specs](https://vscode-debug-specs.github.io/)
-- [VS Code TypeScript 開発体験 ハンズオン](https://github.com/74th/vscode-typescript-handson)
-- [Hello VS Code ハンズオン](https://github.com/vscodejp/handson-hello-vscode)
-
-### Books(Japanese)
+### Books and Talks(Japanese)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- 📖2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
-- 📖2022-01 [『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://techbookfest.org/event/tbf12)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
+- 💬2021-11 [『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』CloudNative Days Tokyo 2021](https://speakerdeck.com/74th/vs-codedeshi-jian-kubernetesshang-falseapurifalsedebatugushi-xing-shou-fa)
+- 💬2021-09 [『VS Code 拡張機能開発基本のキ』VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit?usp=sharing)
+- 💬2022-04 [『Django+Next.js アプリの VS Code ワークスペース設定作り込み』VS Code Meetup #19](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
 - 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
 - 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
@@ -44,8 +38,9 @@
 - ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
 - ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
+- 📖[土曜日の Raspberry Pi Pico](https://74th.booth.pm/items/4161550)
+- 📖[4 つのガジェット製作でえた電子工作の知識](https://74th.booth.pm/items/4123011)
 - ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
-- <img height="20" width="20" src="./images/visualstudiocode.svg"/>[High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
 ## tech books📖 and talks💬 and makes🛠
@@ -120,16 +115,20 @@
 - 📖 2022-01『Tech It Up Vol.1 by Mobility Technologies』[技術書典 12](https://techbookfest.org/event/tbf12)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/4779518235508736?productVariantID=6574545760681984)
   - 会社のメンバーと作った本。『Go ルーチンで高スループットシステムを構築する時の実装パターン』を寄稿。
-- 💬 2021-11『ViVSode で実践！Kubernetes 上のアプリのデバッグ実行手法』[CloudNative Days Tokyo 2021](https://event.cloudnativedays.jp/cndt2021/)
+- 💬 2021-11『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』[CloudNative Days Tokyo 2021](https://event.cloudnativedays.jp/cndt2021/)
   - [Movie, Information](https://event.cloudnativedays.jp/cndt2021/talks/1245)
   - [Slide](https://docs.google.com/presentation/d/1bWNdLp3_EbVsgfOIW553wm3JMx3hUHf6w6i2fQ64ZWo/edit?usp=sharing)
   - Kubernetes 上で複数のマイクロサービスが協調動作する環境が一般的になってきました。その環境上でしか動作しないアプリケーションを、開発時のようにステップ実行してデバッグすること（以下、デバッグ実行）を諦めている方も多いと思います。VS Code では、Kubernetes 上でアプリケーションをデバッグ実行する拡張機能が複数公開されています。本セッションでは、以下の 3 つのデバッグ実行の手法について、方法とその制約を解説、実演します。
 - 💬 2021-11『Visual Studio Code アップデート』[VS Code Meetup #16](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=Y8dl1y2qdG8)
   - [Document(github)](https://github.com/74th/vscode-update-Oct2021)
-- 💬 2021-10『MoT TechTalk #7 ​​ 技術書典頒布のタクシーアプリ『GO』アーキテクチャ図録を一挙解説』[MoT Teck Talk #7](https://jtx.connpass.com/event/226030/)
+- 💬 2021-10『MoT TechTalk #7 技術書典頒布のタクシーアプリ『GO』アーキテクチャ図録を一挙解説』[MoT Teck Talk #7](https://jtx.connpass.com/event/226030/)
   - [Movie(YouTube)](https://www.youtube.com/watch?v=jvwZCNfgwZQ)
   - [Slide(Speakerdeck)](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-7-ji-shu-shu-dian-ban-bu-falsetakusiapuri-go-akitekutiyatu-lu-wo-ju-jie-shuo)
+- 💬 2021-09『VS Code 拡張機能開発基本のキ』[VS Code Meetup #14](https://vscode.connpass.com/event/222668/)
+  - [Slide](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit?usp=sharing)
+  - [Movie](https://youtu.be/9kavX6mBmw4?t=1900)
+  - VS Code 拡張機能開発の基礎編
 - ⌨ 2021-09『Sparrow24 BLE Calculator』
   - [Booth 販売中](https://74th.booth.pm/items/3338904)
   - [Build Guide](https://github.com/74th/sparrow24-ble-calculator-buildguide)
