@@ -20,10 +20,10 @@
 
 ### Books and Talks(Japanese)
 
-<img src="images/vscode-practical-guide.jpg" width="20%"/>
+[<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="images/vscode-debug-book2.png" width="20%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="20%"/>](https://74th.booth.pm/items/3338895)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://techbookfest.org/product/4548114826395648)
+- 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
 - 💬2021-11 [『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』CloudNative Days Tokyo 2021](https://speakerdeck.com/74th/vs-codedeshi-jian-kubernetesshang-falseapurifalsedebatugushi-xing-shou-fa)
