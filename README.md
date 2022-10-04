@@ -51,6 +51,8 @@
 
 ### main
 
+[<img src="images/invoke-book.png" width="15%"/>](https://74th.booth.pm/items/1042665)[<img src="images/golang-book.png" width="15%"/>](https://74th.booth.pm/items/861342)
+
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
