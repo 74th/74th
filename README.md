@@ -62,11 +62,11 @@
 - 🛠
   [RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   🛒
-  [Now on Sale](https://74th.booth.pm/items/4492441)
+  [in Store Now](https://74th.booth.pm/items/4492441)
 - 🛠
   [RP2040 Dev Board Kit（RP2040 を手はんだ実装に挑戦する開発ボードキット）技術書典 13](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   🛒
-  [Now on Sale](https://74th.booth.pm/items/3929664)
+  [in Store Now](https://74th.booth.pm/items/3929664)
 - ⌨
   [Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
 - ⌨
