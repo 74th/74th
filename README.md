@@ -11,13 +11,13 @@
 
 ### Extensions
 
-- ⚙️
+- ⚙️🎨
   [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - ⚙️
   [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
-- ⚙️
+- ⚙️🎨
   [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- ⚙️
+- ⚙️🎨
   [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
 - ⚙️
   [vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
@@ -57,7 +57,7 @@
 
 [<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
-- ⚙️
+- <img height="20" width="20" src="https://simpleicons.org/icons/kicad.svg"/>🎨
   [KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
 - 🛠
   [RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
