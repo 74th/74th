@@ -60,7 +60,7 @@
   - [Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - Wi-Fi 対応の Pico W をクラウドにつないだり、Pico のマイコン RP2040 を直接実装して苦しんだりします。
-- 📖2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖 2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』 [技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - 執筆！
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
