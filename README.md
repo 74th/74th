@@ -11,20 +11,21 @@
 
 ### Extensions
 
-- [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-- [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
-- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
-- [vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
-- [JSON YAML Schema Selector(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
+- ⚙️[High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
+- ⚙️[editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
+- ⚙️[Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
+- ⚙️[NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
+- ⚙️[vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
+- ⚙️[JSON YAML Schema Selector(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
 
 ### Books and Talks(Japanese)
 
 [<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="http://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="20%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)[<img src="images/vscode-debug-book2.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/vscode-debug-book1.jpg" width="20%"/>](https://nextpublishing.jp/book/10255.html)[<img src="images/vscode-ninja-guide.png" width="15%"/>](https://74th.booth.pm/items/1575560)[<img src="images/vscode-remote-book.png" width="15%"/>](https://74th.booth.pm/items/1575560)
 
 - 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- 📖2022-09 [『Software Design 2022年10月号 / 第1特集エディタこそ開発の要［最大活用］Visual Studio Code / 第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖2022-09 [ 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
 - 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
+- 💬2023-01 [VS Code Conf JP 2022-23 GitHub Codespaces 徹底活用ハンズオン](https://www.youtube.com/watch?v=5dbjFjE59bw)
 - 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
 - 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
 - 💬2021-11 [『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』CloudNative Days Tokyo 2021](https://speakerdeck.com/74th/vs-codedeshi-jian-kubernetesshang-falseapurifalsedebatugushi-xing-shou-fa)
@@ -39,6 +40,7 @@
 
 [<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
+- ⚙️[KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
 - 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
 - ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
 - ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
@@ -55,10 +57,10 @@
 [<img src="images/invoke-book.png" width="15%"/>](https://74th.booth.pm/items/1042665)[<img src="images/golang-book.png" width="15%"/>](https://74th.booth.pm/items/861342)
 
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
-  - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
+  - [Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
-  - Wi-Fi 対応の Pico W をクラウドにつないだり、PicoのマイコンRP2040 を直接実装して苦しんだりします。
-- 📖2022-09 『Software Design 2022年10月号 / 第1特集エディタこそ開発の要［最大活用］Visual Studio Code / 第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+  - Wi-Fi 対応の Pico W をクラウドにつないだり、Pico のマイコン RP2040 を直接実装して苦しんだりします。
+- 📖2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - 執筆！
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
@@ -92,30 +94,30 @@
 
 - 🛠 2022-09『ESP32-S3 USB-C 開発ボードキット』
   - [Booth 販売中](https://74th.booth.pm/items/4179263)
-  - ESP32-S3-WROOM-1 を使った開発ボード 
+  - ESP32-S3-WROOM-1 を使った開発ボード
     - ピンヘッダは ESP32-S3-DevKitC 互換の配置
     - 10 ピンブレッドボードに挿しても、左右 1 ピン空いている
     - ESP-Prog の USB シリアル変換のボックスピンヘッダを持つ
     - USB Type-C を持つ
-- 🛠 2022-09『RP2040を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
+- 🛠 2022-09『RP2040 を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth 販売中](https://74th.booth.pm/items/3929664)
   - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
-- 📖2022-09 『Software Design 2022年10月号 / 第1特集エディタこそ開発の要［最大活用］Visual Studio Code / 第2章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - 執筆！
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
-  - [Booth(PDF、PCBつき物理書籍販売中)](https://74th.booth.pm/items/4161550)
+  - [Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
   - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
-  - Wi-Fi 対応の Pico W をクラウドにつないだり、PicoのマイコンRP2040 を直接実装して苦しんだりします。 
+  - Wi-Fi 対応の Pico W をクラウドにつないだり、Pico のマイコン RP2040 を直接実装して苦しんだりします。
 - 💬 2022-08『VS Code Meetup #21 - もう一度知りたい基礎編 - ファイル操作、コーディングの基本編』[VS Code Meetup #21](https://vscode.connpass.com/event/254942/)
   - [Movie(YouTube)](https://youtu.be/lHwAOT1M-tE?t=265)
   - [触れた内容のスライド](https://speakerdeck.com/74th/vs-code-meetup-number-21-mou-du-zhi-ritaiji-chu-bian-huairucao-zuo-kodeingufalseji-ben-bian)
 - 💬 2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)
   - [Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
   - [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)
-- 🛠 2022-03『USB 2.0 Type-C コネクタ変換基盤（40枚綴り）』
+- 🛠 2022-03『USB 2.0 Type-C コネクタ変換基盤（40 枚綴り）』
   - [Booth(販売中)](https://74th.booth.pm/items/3678316)
-- 🛠 2022-02『RP2040変換ボード』
+- 🛠 2022-02『RP2040 変換ボード』
   - [Booth(販売中)](https://74th.booth.pm/items/3678267)
 - 💬 2022-01『MoT TeckTalk #10 タクシーアプリ GO で AI と GCP を駆使しリアルタイムにタクシー需要を予測！アーキテクチャ全貌公開』[MoT TeckTalk #10](https://jtx.connpass.com/event/236252/)
   - [Slide](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-10-takusiapurigodeaitogcpwoqu-shi-siriarutaimunitakusixu-yao-woyu-ce-akitekutiyaquan-mao-gong-kai)
@@ -150,16 +152,16 @@
   - 電卓の結果を、Bluetooth キーボードのキーとして送ることができます。
   - 乾電池と USB 電源のどちらでも使えます（ただし電池ホルダーは付属しません）。
   - ファームウェアを書き込む UART に容易にアクセスでき、ファームウェアを更新することができます。
-  - ファームウェアはオープンソースとして公開しています。ぜひ機能をリクエストいただいたり、開発に参加ください。 
-- ⌨ 2021-08『DIY 音楽ゲームコントr−ラー Dive 9』
+  - ファームウェアはオープンソースとして公開しています。ぜひ機能をリクエストいただいたり、開発に参加ください。
+- ⌨ 2021-08『DIY 音楽ゲームコント r− ラー Dive 9』
   - [Booth (販売終了)](https://74th.booth.pm/items/3168541)
   - [Build Guide](https://github.com/74th/dive9-buildguide)
-  - 自作キーボードのファームウェア、QMK Firmwareを利用した、音楽ゲームコントローラーの制作キット
-  - USBゲームパッドとして認識し、9 キーの同時押しに対応します
-  - 9キーはキーのサイズから2Uのスタビライザーを利用して、打鍵の安定性を向上させています
-  - 試技中以外の設定等で使える追加の4キーがあります
-  - キーボード自体の設定の切り替えや、音量の調整に使えるOPTIONキーがあります
-  - 反応までのストロークが1.5mmの薄型キースイッチKailh Choc v1を利用します 
+  - 自作キーボードのファームウェア、QMK Firmware を利用した、音楽ゲームコントローラーの制作キット
+  - USB ゲームパッドとして認識し、9 キーの同時押しに対応します
+  - 9 キーはキーのサイズから 2U のスタビライザーを利用して、打鍵の安定性を向上させています
+  - 試技中以外の設定等で使える追加の 4 キーがあります
+  - キーボード自体の設定の切り替えや、音量の調整に使える OPTION キーがあります
+  - 反応までのストロークが 1.5mm の薄型キースイッチ Kailh Choc v1 を利用します
   - 💬 2021-08『VS Code 拡張機能開発の基本のキ』[VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit)
   - [Slide](https://docs.google.com/presentation/d/1RMCLziwslVPA9H_N0VmWJPbr5Mc0uhqIBdPEMNR2zLI/edit?usp=sharing)
   - [Movie(Youtube)](https://youtu.be/9kavX6mBmw4?t=1891)
@@ -181,14 +183,14 @@
 - ⌨ 2020-11『Sparrow62 自作キーボードキット』
   - [Booth 販売終了](https://74th.booth.pm/items/2525427)
   - [Firmware(QMK)](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sparrow62)
-  - Lily58に触発された、自作キーボードの作成キット
+  - Lily58 に触発された、自作キーボードの作成キット
   - 薄型キースイッチ Kailh Choc V1/V2 が使えること。
   - Cherry MX 互換キースイッチが使えること。
   - 縦に揃ったキー配置(カラムスタッガード)であること。
   - 十分キーの数が多いこと。
-  - 極限の薄さを追求（Pro Microが横にある、ゴム足ではなくゴムシートを使用）
-  - キースイッチ交換可能なようにKailhソケットを使うこと。
-  - MagicTrackpadを使うのに効率的な配置と高さ（トラックパッド用セットの場合） 
+  - 極限の薄さを追求（Pro Micro が横にある、ゴム足ではなくゴムシートを使用）
+  - キースイッチ交換可能なように Kailh ソケットを使うこと。
+  - MagicTrackpad を使うのに効率的な配置と高さ（トラックパッド用セットの場合）
 - 💬 2020-11『最強の Dev Container を考える』[VS Code Conference Japan](https://vscode.connpass.com/event/184441/)
   - 理想的な Dev Container とは何かを考え、Multi Stage Build を使って実現する
   - Dev Container の未来も考える
