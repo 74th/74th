@@ -62,22 +62,31 @@
 - 🛠
   [RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   🛒
-  [in Store Now](https://74th.booth.pm/items/4492441)
+  [in Store Now (booth)](https://74th.booth.pm/items/4492441)
 - 🛠
   [RP2040 Dev Board Kit（RP2040 を手はんだ実装に挑戦する開発ボードキット）技術書典 13](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   🛒
-  [in Store Now](https://74th.booth.pm/items/3929664)
+  [in Store Now (Booth)](https://74th.booth.pm/items/3929664)
 - ⌨
   [Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
+  🛒
+  [in Store Now (遊舎工房)](https://shop.yushakobo.jp/products/4295)
 - ⌨
   [Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
-- 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
+  🛒
+  [in Store Now (Booth)](https://74th.booth.pm/items/3338904)
+- 🎮
+  [Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
 - ⌨
   [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
 - 📖
   [『土曜日の Raspberry Pi Pico』技術書典 13](https://74th.booth.pm/items/4161550)
+  🛒
+  [in Store Now (Booth)](https://74th.booth.pm/items/4161550)
 - 📖
   [『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://74th.booth.pm/items/4123011)
+  🛒
+  [in Store Now (Booth)](https://74th.booth.pm/items/4123011)
 - <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
 ## tech books📖 and talks💬 and makes🛠
