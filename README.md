@@ -11,13 +11,13 @@
 
 ### Extensions
 
-- ⚙️🎨
+- 🎨
   [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
 - ⚙️
   [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
-- ⚙️🎨
+- 🎨
   [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- ⚙️🎨
+- 🎨
   [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
 - ⚙️
   [vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
