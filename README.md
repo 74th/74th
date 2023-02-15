@@ -11,28 +11,45 @@
 
 ### Extensions
 
-- ⚙️[High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
-- ⚙️[editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
-- ⚙️[Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
-- ⚙️[NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
-- ⚙️[vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
-- ⚙️[JSON YAML Schema Selector(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
+- ⚙️
+  [High Contrast Icons](https://marketplace.visualstudio.com/items?itemName=74th.high-contrast-icons)
+- ⚙️
+  [editing snippets with yaml](https://marketplace.visualstudio.com/items?itemName=74th.editing-snippets-with-yaml)
+- ⚙️
+  [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast)
+- ⚙️
+  [NaturalContrast Theme with High contrast](https://marketplace.visualstudio.com/items?itemName=74th.Theme-NaturalContrast-With-HC)
+- ⚙️
+  [vim Style for VSCode(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.vimStyle)
+- ⚙️
+  [JSON YAML Schema Selector(EOL)](https://marketplace.visualstudio.com/items?itemName=74th.json-yaml-schema-selector)
 
 ### Books and Talks(Japanese)
 
 [<img src="images/vscode-practical-guide.jpg" width="20%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)[<img src="http://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="20%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)[<img src="images/vscode-debug-book2.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/devcontainer-guide.png" width="15%"/>](https://74th.booth.pm/items/3338895)[<img src="images/vscode-debug-book1.jpg" width="20%"/>](https://nextpublishing.jp/book/10255.html)[<img src="images/vscode-ninja-guide.png" width="15%"/>](https://74th.booth.pm/items/1575560)[<img src="images/vscode-remote-book.png" width="15%"/>](https://74th.booth.pm/items/1575560)
 
-- 📖2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- 📖2022-09 [ 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
-- 📖2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
-- 💬2023-01 [VS Code Conf JP 2022-23 GitHub Codespaces 徹底活用ハンズオン](https://www.youtube.com/watch?v=5dbjFjE59bw)
-- 📖2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
-- 📖2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
-- 💬2021-11 [『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』CloudNative Days Tokyo 2021](https://speakerdeck.com/74th/vs-codedeshi-jian-kubernetesshang-falseapurifalsedebatugushi-xing-shou-fa)
-- 💬2021-09 [『VS Code 拡張機能開発基本のキ』VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit?usp=sharing)
-- 💬2022-04 [『Django+Next.js アプリの VS Code ワークスペース設定作り込み』VS Code Meetup #19](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
-- 📖2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
-- 📖2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
+- 📖
+  2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- 📖
+  2022-09 [ 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
+- 📖
+  2021-07 [『VS Code デバッグ技術 第 2 版』技術書典 11](https://74th.booth.pm/items/3338895)
+- 💬
+  2023-01 [VS Code Conf JP 2022-23 GitHub Codespaces 徹底活用ハンズオン](https://www.youtube.com/watch?v=5dbjFjE59bw)
+- 📖
+  2020-09 [『VS Code Dev Container Guidebook』技術書典 9](https://74th.booth.pm/items/2425642)
+- 📖
+  2020-03 [『Visual Studio Code Ninja Guide』技術書典 8](https://74th.booth.pm/items/1973166)
+- 💬
+  2021-11 [『VSode で実践！Kubernetes 上のアプリのデバッグ実行手法』CloudNative Days Tokyo 2021](https://speakerdeck.com/74th/vs-codedeshi-jian-kubernetesshang-falseapurifalsedebatugushi-xing-shou-fa)
+- 💬
+  2021-09 [『VS Code 拡張機能開発基本のキ』VS Code Meetup #14](https://docs.google.com/presentation/d/1mlr0A6bIekfh9L0Gi1H3Zis1hky7EtGs1olgL0w8WU8/edit?usp=sharing)
+- 💬
+  2022-04 [『Django+Next.js アプリの VS Code ワークスペース設定作り込み』VS Code Meetup #19](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
+- 📖
+  2019-09 [『Visual Studio Code Remote Dev & Cloud Code Guide』技術書典 7](https://74th.booth.pm/items/1575560)
+- 📖
+  2018-12 [『Visual Studio Code デバッグ技術 (技術の泉シリーズ（NextPublishing）)』](https://booth.pm/ja/items/1314180)
 
 ## Maker and OSS Development
 
@@ -40,14 +57,27 @@
 
 [<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
-- ⚙️[KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
-- 🛠[RP2040Dev Board Kit](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
-- ⌨[Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
-- ⌨[Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
+- ⚙️
+  [KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
+- 🛠
+  [RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
+  🛒
+  [Now on Sale](https://74th.booth.pm/items/4492441)
+- 🛠
+  [RP2040 Dev Board Kit（RP2040 を手はんだ実装に挑戦する開発ボードキット）技術書典 13](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
+  🛒
+  [Now on Sale](https://74th.booth.pm/items/3929664)
+- ⌨
+  [Sparrow62(+1)v2 build-your-own keyboard](https://74th.booth.pm/items/3828479)
+- ⌨
+  [Sparrow24 BLE Calculator（Bluetooth テンキー兼電卓な自作キーボードキット）](https://74th.booth.pm/items/3338904)
 - 🛠[Dive9 音楽ゲームコントローラ](https://booth.pm/ja/items/3168541)
-- ⌨[Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
-- 📖[『土曜日の Raspberry Pi Pico』技術書典 13](https://74th.booth.pm/items/4161550)
-- 📖[『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://74th.booth.pm/items/4123011)
+- ⌨
+  [Sparrow62 build-your-own Keyboard](https://booth.pm/ja/items/2525427)
+- 📖
+  [『土曜日の Raspberry Pi Pico』技術書典 13](https://74th.booth.pm/items/4161550)
+- 📖
+  [『4 つのガジェット製作でえた電子工作の知識』技術書典 12](https://74th.booth.pm/items/4123011)
 - <img height="20" width="20" src="./images/python.svg"/>[xonsh direnv](https://github.com/74th/xonsh-direnv)
 
 ## tech books📖 and talks💬 and makes🛠
