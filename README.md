@@ -57,13 +57,17 @@
 
 [<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
+- 🔌
+  [X32Micro （STM32及び類似マイコン用ProMicroサイズ開発ボード）](https://github.com/74th/x32promicro)
+  - [🛒RISC-V MCU CH32V203セット](https://74th.booth.pm/items/4492691)
+  - [🛒ARM MCU STM32F103セット](https://74th.booth.pm/items/4571728)
 - 🎨
   [KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
-- 🛠
+- 🔌
   [RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   [🛒
   booth](https://74th.booth.pm/items/4492441)
-- 🛠
+- 🔌
   [RP2040 Dev Board Kit（RP2040 を手はんだ実装に挑戦する開発ボードキット）技術書典 13](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)
   [🛒
   Booth](https://74th.booth.pm/items/3929664)
@@ -96,15 +100,19 @@
 [<img src="images/invoke-book.png" width="15%"/>](https://74th.booth.pm/items/1042665)[<img src="images/golang-book.png" width="15%"/>](https://74th.booth.pm/items/861342)
 
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
-  - [Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
-  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - [🛒
+    Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
+  - [🛒
+    技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - Wi-Fi 対応の Pico W をクラウドにつないだり、Pico のマイコン RP2040 を直接実装して苦しんだりします。
 - 📖 2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』 [技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - [書籍サイト](https://gihyo.jp/magazine/SD/archive/2022/202210)
   - 執筆！
 - 📖 2022-01『4 つのガジェット製作でえた電子工作の知識』[技術書典 12](https://techbookfest.org/event/tbf12)
-  - [Booth PDF、物理書籍販売中](https://74th.booth.pm/items/4123011)
-  - [技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
+  - [🛒
+    Booth PDF、物理書籍販売中](https://74th.booth.pm/items/4123011)
+  - [🛒
+    技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/6237216143572992?productVariantID=4824943890006016)
   - 自作キーボードの製作をきっかけに電子工作の世界に入門し、最初は意味不明だったさまざまなことを、4 つのガジェットの製作を通じて電子工作について理解し習得しました。ガジェット製作にどのようなことを考えて取り組んだのか、またそこでえた知識をざっくりとまとめました。これから電子工作にふれてみたい方も、電子工作に心得のある方も、プロの方も、楽しくガジェットづくりをしているのが伝わればと思います。
 - 💬 2021-11『PlatformIO で シュッと Arduino 開発を高速化しよう!(Speed up your Arduino development with PlatformIO!)』[VS Code Conference Japan 2021](https://vscodejp.github.io/conf2021/ja/)
   - 近年 Arduino を使った IoT 機器の開発が電子工作でもよく行われるようになりました かつての組み込みソフトウェアの開発では、マイコンベンダーが提供する IDE を使用するのが当たり前でした。 現在は、PlatformIO を使うことによって、組み込みソフトウェアの開発をシュッっと行ことができます。 PlatformIO は、 VS Code の拡張機能として、環境構築からビルド、アップロード、デバッグまでの一連のワークフローを提供してくれます。 本セッションでは、Arduino 開発で PlatformIO を使う場合、PlatformIO が何を担ってくれるのかを解説しながら、実際に VS Code でどのように開発ができるのかを説明していきます。
@@ -131,14 +139,35 @@
 
 ### log
 
-- 🛠 2022-09『ESP32-S3 USB-C 開発ボードキット』
-  - [Booth 販売中](https://74th.booth.pm/items/4179263)
+- 🔌
+  2023-02『[X32Micro （STM32及び類似マイコン用ProMicroサイズ開発ボード）](https://github.com/74th/x32promicro)』
+  - [🛒RISC-V MCU CH32V203セット](https://74th.booth.pm/items/4492691)
+  - [🛒ARM MCU STM32F103セット](https://74th.booth.pm/items/4571728)
+  - STM32F103CxT6 ピン互換を持つ MCU で遊ぶための開発ボード。RISC-V MCU CH32V203 で動作確認済み。
+- 🔌
+  2023-01『[RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)』
+  - [🛒
+    booth販売中](https://74th.booth.pm/items/4492441)
+  - ProMicroサイズのRP2040開発ボードキット
+- 🔌
+  2022-12『[ESP32-C3 開発ボード](https://github.com/74th/esp32-dev-boards/tree/main/ESP32-C3-WROOM-02)』
+  - [🛒
+    Booth 販売中](https://74th.booth.pm/items/4378573)
+  - ESP32-C3-WROOM-02 を使った開発ボード
+    - ピンヘッダは ESP32-C3-DevKitC 互換の配置
+    - 10 ピンブレッドボードに挿しても、左右 1 ピン空いている
+    - ESP-Prog の USB シリアル変換のボックスピンヘッダを持つ
+    - USB Type-C を持つ
+- 🔌
+  2022-09『[ESP32-S3 USB-C 開発ボード](https://github.com/74th/esp32-dev-boards/tree/main/ESP32-S3-WROOM-1)』
+  - [🛒
+    Booth 販売中](https://74th.booth.pm/items/4179263)
   - ESP32-S3-WROOM-1 を使った開発ボード
     - ピンヘッダは ESP32-S3-DevKitC 互換の配置
     - 10 ピンブレッドボードに挿しても、左右 1 ピン空いている
     - ESP-Prog の USB シリアル変換のボックスピンヘッダを持つ
     - USB Type-C を持つ
-- 🛠 2022-09『RP2040 を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
+- 🔌 2022-09『RP2040 を手はんだ実装に挑戦する開発ボードキット』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [Booth 販売中](https://74th.booth.pm/items/3929664)
   - Rasibperry Pi Pico の MCU、RP2040 を使った開発を体験できるキット
 - 📖2022-09 『Software Design 2022 年 10 月号 / 第 1 特集エディタこそ開発の要［最大活用］Visual Studio Code / 第 2 章：コーディングがぐっとはかどる定番機能 リファクタリングやテストも簡単快適！』[技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)
@@ -154,9 +183,9 @@
 - 💬 2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)
   - [Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi)
   - [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)
-- 🛠 2022-03『USB 2.0 Type-C コネクタ変換基盤（40 枚綴り）』
+- 🔌 2022-03『USB 2.0 Type-C コネクタ変換基盤（40 枚綴り）』
   - [Booth(販売中)](https://74th.booth.pm/items/3678316)
-- 🛠 2022-02『RP2040 変換ボード』
+- 🔌 2022-02『RP2040 変換ボード』
   - [Booth(販売中)](https://74th.booth.pm/items/3678267)
 - 💬 2022-01『MoT TeckTalk #10 タクシーアプリ GO で AI と GCP を駆使しリアルタイムにタクシー需要を予測！アーキテクチャ全貌公開』[MoT TeckTalk #10](https://jtx.connpass.com/event/236252/)
   - [Slide](https://speakerdeck.com/mot_techtalk/mot-techtalk-number-10-takusiapurigodeaitogcpwoqu-shi-siriarutaimunitakusixu-yao-woyu-ce-akitekutiyaquan-mao-gong-kai)
