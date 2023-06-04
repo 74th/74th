@@ -2,7 +2,7 @@
 
 - <a href="https://twitter.com/74th"><img height="20" width="20" src="./images/twitter.svg"/>Twitter: @74th</a>
 - <a href="https://github.com/74th"><img height="20" width="20" src="./images/github.svg"/>github: 74th</a>
-- <a href="https://74th.tech">74th.tech Personal Site (Japanese)</a>
+- <a href="https://74th.hateblo.jp/">Blog (Japanese)</a>
 - <a href="https://74th.booth.pm/">shop 74th(tech fun Books and build-your-own Keyboard)</a>
 
 <!-- ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical) -->
@@ -55,12 +55,20 @@
 
 [<img src="images/rp2040-dev-board.png" width="20%"/>](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)[<img src="images/sparrow62v2.jpg" width="40%"/>](https://74th.booth.pm/items/3828479)[<img src="images/sparrow24-ble-calculator.jpg" width="15%"/>](https://74th.booth.pm/items/3338904)[<img src="images/dive9.jpg" width="25%"/>](https://booth.pm/ja/items/3168541)
 
-[<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
+[<img src="images/neopixel-book.png" width="15%"/>](https://74th.booth.pm/items/4799571)[<img src="images/saturday-pico-book.png" width="15%"/>](https://74th.booth.pm/items/4161550)[<img src="images/4gadgets-book.png" width="15%"/>](https://74th.booth.pm/items/4123011)
 
+- 📖
+  [『マイコンさんに知らないプロトコルを喋らせる技術』技術書典 14](https://74th.booth.pm/items/4799571)
+  [🛒
+  booth](https://74th.booth.pm/items/4799571)
 - 🔌
-  [X32Micro （STM32及び類似マイコン用ProMicroサイズ開発ボード）](https://github.com/74th/x32promicro)
-  - [🛒RISC-V MCU CH32V203セット](https://74th.booth.pm/items/4492691)
-  - [🛒ARM MCU STM32F103セット](https://74th.booth.pm/items/4571728)
+  [USB 2.0 Type-C ソケットテスター](https://74th.booth.pm/items/4692002)
+  [🛒
+  booth](https://74th.booth.pm/items/4692002)
+- 🔌
+  [X32Micro （STM32 及び類似マイコン用 ProMicro サイズ開発ボード）](https://github.com/74th/x32promicro)
+  - [🛒RISC-V MCU CH32V203 セット](https://74th.booth.pm/items/4492691)
+  - [🛒ARM MCU STM32F103 セット](https://74th.booth.pm/items/4571728)
 - 🎨
   [KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
 - 🔌
@@ -99,6 +107,15 @@
 
 [<img src="images/invoke-book.png" width="15%"/>](https://74th.booth.pm/items/1042665)[<img src="images/golang-book.png" width="15%"/>](https://74th.booth.pm/items/861342)
 
+- 📖 2023-06『タクシーアプリ『GO』高速マッチングシステムで実践した Go チューニングテクニック』[Go Conference 2023](https://gocon.jp/2023/)
+  - [セッションページ](https://gocon.jp/2023/sessions/A1-SP/)
+  - お仕事の開発で、コアロジックをマイクロサービスに切り出す時に行ったチューニング。
+- 📖 2023-06『マイコンさんに知らないプロトコルを喋らせる技術』[技術書典 14](https://techbookfest.org/event/tbf14)
+  - [🛒
+    Booth(PDF、物理書籍販売中)](https://74th.booth.pm/items/4799571)
+  - [🛒
+    技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/j8DNMfN6xVXrmTtKijKwRm)
+  - フルカラー LED の WS2812 を制御するには、I2C や SPI といったマイコンが機能として持つプロトコルとは異なる 400ns の H/L の制御が必要となります。 それはマイコンの CPU だけで処理するには若干難しいです。 マイコンの機能をどのように使えば、この制御ができるのかを調査して調べて、実践した書籍になります。
 - 📖 2022-09『土曜日の Raspberry Pi Pico』[技術書典 13](https://techbookfest.org/event/tbf13)
   - [🛒
     Booth(PDF、PCB つき物理書籍販売中)](https://74th.booth.pm/items/4161550)
@@ -140,15 +157,24 @@
 ### log
 
 - 🔌
-  2023-02『[X32Micro （STM32及び類似マイコン用ProMicroサイズ開発ボード）](https://github.com/74th/x32promicro)』
-  - [🛒RISC-V MCU CH32V203セット](https://74th.booth.pm/items/4492691)
-  - [🛒ARM MCU STM32F103セット](https://74th.booth.pm/items/4571728)
+  2023-04『[USB 2.0 Type-C ソケットテスター](https://74th.booth.pm/items/4692002)』
+  - USB Type-C ソケットを手ハンダで実装した後に、ソケットが正しく実装できているかテストするための愛用治具。
+  - この制作についてのブログ記事: https://74th.hateblo.jp/entry/2023/04/15/150437
+- 🔌
+  2023-03『[RISC-V MCU CH32V003 ProMicro サイズ開発ボードキット](https://74th.booth.pm/items/4645948)』
+  - 安価な RISC-V MCU CH32V003 を使った開発ボードキット。UART で書き込めるブートローダを実装済み。
+  - 回路図や、KiCad ファイル: https://github.com/74th/ch32v-dev-boards/tree/main/ch32v003-promicro
+- 🔌
+  2023-02『[X32Micro （STM32 及び類似マイコン用 ProMicro サイズ開発ボード）](https://github.com/74th/x32promicro)』
+  - [🛒RISC-V MCU CH32V203 セット](https://74th.booth.pm/items/4492691)
+  - [🛒ARM MCU STM32F103 セット](https://74th.booth.pm/items/4571728)
   - STM32F103CxT6 ピン互換を持つ MCU で遊ぶための開発ボード。RISC-V MCU CH32V203 で動作確認済み。
+  - 回路図や、KiCad ファイル: https://github.com/74th/x32promicro
 - 🔌
   2023-01『[RP2040 ProMicro Sized Dev Board Kit （RP2040 を手はんだ実装に挑戦する ProMicro 型開発ボードキット）](https://github.com/74th/rp2040-dev-board/tree/main/rp2040-large)』
   - [🛒
-    booth販売中](https://74th.booth.pm/items/4492441)
-  - ProMicroサイズのRP2040開発ボードキット
+    booth 販売中](https://74th.booth.pm/items/4492441)
+  - ProMicro サイズの RP2040 開発ボードキット
 - 🔌
   2022-12『[ESP32-C3 開発ボード](https://github.com/74th/esp32-dev-boards/tree/main/ESP32-C3-WROOM-02)』
   - [🛒
