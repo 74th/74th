@@ -4,6 +4,7 @@
 - <a href="https://github.com/74th"><img height="20" width="20" src="./images/github.svg"/>github: 74th</a>
 - <a href="https://74th.hateblo.jp/">Blog (Japanese)</a>
 - <a href="https://74th.booth.pm/">shop 74th(tech fun Books and build-your-own Keyboard)</a>
+- <a href="https://www.youtube.com/@74th-tech">@74th DIY Electronics Channel(YouTube)</a>
 
 <!-- ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical) -->
 
