@@ -107,10 +107,12 @@
 
 [<img src="images/invoke-book.png" width="15%"/>](https://74th.booth.pm/items/1042665)[<img src="images/golang-book.png" width="15%"/>](https://74th.booth.pm/items/861342)
 
-- 📖 2023-06『タクシーアプリ『GO』高速マッチングシステムで実践した Go チューニングテクニック』[Go Conference 2023](https://gocon.jp/2023/)
+- 💬
+  2023-06『タクシーアプリ『GO』高速マッチングシステムで実践した Go チューニングテクニック』[Go Conference 2023](https://gocon.jp/2023/)
   - [セッションページ](https://gocon.jp/2023/sessions/A1-SP/)
   - お仕事の開発で、コアロジックをマイクロサービスに切り出す時に行ったチューニング。
-- 📖 2023-06『マイコンさんに知らないプロトコルを喋らせる技術』[技術書典 14](https://techbookfest.org/event/tbf14)
+- 📖
+  2023-06『マイコンさんに知らないプロトコルを喋らせる技術』[技術書典 14](https://techbookfest.org/event/tbf14)
   - [🛒
     Booth(PDF、物理書籍販売中)](https://74th.booth.pm/items/4799571)
   - [🛒
