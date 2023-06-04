@@ -62,13 +62,19 @@
   [🛒
   booth](https://74th.booth.pm/items/4799571)
 - 🔌
+  [RISC-V MCU CH32V003 ProMicro サイズ開発ボードキット](https://74th.booth.pm/items/4645948)
+  [🛒
+  booth](https://74th.booth.pm/items/4645948)
+- 🔌
   [USB 2.0 Type-C ソケットテスター](https://74th.booth.pm/items/4692002)
   [🛒
   booth](https://74th.booth.pm/items/4692002)
 - 🔌
   [X32Micro （STM32 及び類似マイコン用 ProMicro サイズ開発ボード）](https://github.com/74th/x32promicro)
-  - [🛒RISC-V MCU CH32V203 セット](https://74th.booth.pm/items/4492691)
-  - [🛒ARM MCU STM32F103 セット](https://74th.booth.pm/items/4571728)
+  - [🛒
+    RISC-V MCU CH32V203 セット](https://74th.booth.pm/items/4492691)
+  - [🛒
+    ARM MCU STM32F103 セット](https://74th.booth.pm/items/4571728)
 - 🎨
   [KiCad Monokai High Contrast Theme (KiCad Extension)](https://github.com/74th/kicad-highcontrast-monokai-theme)
 - 🔌
@@ -114,7 +120,7 @@
 - 📖
   2023-06『マイコンさんに知らないプロトコルを喋らせる技術』[技術書典 14](https://techbookfest.org/event/tbf14)
   - [🛒
-    Booth(PDF、物理書籍販売中)](https://74th.booth.pm/items/4799571)
+    booth(PDF、物理書籍販売中)](https://74th.booth.pm/items/4799571)
   - [🛒
     技術書典マーケット(PDF 販売中)](https://techbookfest.org/product/j8DNMfN6xVXrmTtKijKwRm)
   - フルカラー LED の WS2812 を制御するには、I2C や SPI といったマイコンが機能として持つプロトコルとは異なる 400ns の H/L の制御が必要となります。 それはマイコンの CPU だけで処理するには若干難しいです。 マイコンの機能をどのように使えば、この制御ができるのかを調査して調べて、実践した書籍になります。
