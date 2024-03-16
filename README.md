@@ -193,7 +193,7 @@ Software Engineer and Maker
 
 - ⚡︎
   2023-12 理系フリマ 3 - サークル参加[📷
-  photo](https://twitter.com/74th/status/1736024061619442009)
+  photo](https://twitter.com/74th/status/1736218103842013516)
 - ⌨
   2023-11 天下一キーボードわいわい会 Vol.5 - 作品展示[📷
   photo](https://twitter.com/74th/status/1720650366759718950)
