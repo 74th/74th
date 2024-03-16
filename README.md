@@ -31,7 +31,7 @@ Software Engineer and Maker
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642401.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202401)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)
 [<img src="images/books/wch-diy-electronics.png" width="12%"/>](https://74th.booth.pm/items/5261331)
-[<img src="images/books/neopixel-book.png" width="15%"/>](https://74th.booth.pm/items/4799571)
+[<img src="images/books/neopixel-book.png" width="12%"/>](https://74th.booth.pm/items/4799571)
 [<img src="images/books/saturday-pico-book.png" width="12%"/>](https://74th.booth.pm/items/4161550)
 [<img src="images/books/4gadgets-book.png" width="12%"/>](https://74th.booth.pm/items/4123011)
 [<img src="images/books/vscode-debug-book2.png" width="12%"/>](https://74th.booth.pm/items/3338895)
