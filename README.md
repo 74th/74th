@@ -204,10 +204,15 @@ Software Engineer and Maker
   2023-03 天下一キーボードわいわい会 Vol.4 - 作品展示[📷
   photo](https://twitter.com/74th/status/1631868894045675520)
 
-## Tech Talks 💬
+## Tech Talks & Events 💬
 
 - 🧑‍💻
+  2024-01『『新改訂版 VS Code 実践ガイド』の改訂要素からみる VS Code の進化』[VS Code Meetup #27](https://vscode.connpass.com/event/303633/) （[Movie](https://www.youtube.com/watch?v=2YH3mhkkJcw&t=1385s), [Slide](https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua)）
+- 🧑‍💻
+  2023-08『並列処理を Go/Rust/Kotlin/Python/JS で解説！思想の違いを体感しよう』[GO TechTalk #21](https://jtx.connpass.com/event/289233/) 企画、「Go 編「Go ルーチンで並列処理を実装しよう」」発表（[Movie](https://www.youtube.com/watch?v=m-1Drlk2G8w&t=172s), [Slide](https://speakerdeck.com/mot_techtalk/go-techtalk-21)）
+- 🧑‍💻
   2023-06『タクシーアプリ『GO』高速マッチングシステムで実践した Go チューニングテクニック』[Go Conference 2023](https://gocon.jp/2023/)（[Movie](https://gocon.jp/2023/sessions/A1-SP/)）
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>2023-01『GitHub Codespaces 徹底活用ハンズオン』[VS Code Conference Japan 2022-2023](https://vscode.connpass.com/event/269712/)企画・メイン講師（[Movie](https://www.youtube.com/watch?v=5dbjFjE59bw)、[Repo](https://github.com/vscodejp/codespaces-handson)）
 - <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>2022-08『VS Code Meetup #21 - もう一度知りたい基礎編 - ファイル操作、コーディングの基本編』[VS Code Meetup #21](https://vscode.connpass.com/event/254942/)（[Movie](https://youtu.be/lHwAOT1M-tE?t=265), [Slide](https://speakerdeck.com/74th/vs-code-meetup-number-21-mou-du-zhi-ritaiji-chu-bian-huairucao-zuo-kodeingufalseji-ben-bian)）
 - <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/><img src="./images/icons/python.svg" height="15" width="15"/>
   2022-04『Django+Next.js アプリの VS Code ワークスペース設定作り込み』[VS Code Meetup #19](https://vscode.connpass.com/event/241975/presentation/)（[Slide](https://speakerdeck.com/74th/django-plus-next-dot-jsapurifalse-vs-codewakusupesushe-ding-zuo-riip-mi), [Movie(YouTube)](https://youtu.be/smcHU2MJu0A?t=2375)）
