@@ -47,7 +47,7 @@ Software Engineer and Maker
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [ 『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
 - ⚡︎
   2024-05 [『USB 完全に理解したー通信仕様とコントローラ編ー』技術書典 16](https://74th.booth.pm/items/5826037)
@@ -215,16 +215,20 @@ Software Engineer and Maker
 ## Maker Events ⚡︎⌨
 
 - ⚡︎
+  2024-08 つくまた - サークル参加, [Blog](https://74th.hateblo.jp/entry/tsukumata1)
+- ⚡︎
+  2024-05 天下一キーボードわいわい会 Vol.6 - 作品展示, [Blog](https://74th.hateblo.jp/entry/2024/05/04/222541)
+- ⚡︎
   2023-12 理系フリマ 3 - サークル参加[📷
   photo](https://twitter.com/74th/status/1736218103842013516)
 - ⌨
-  2023-11 天下一キーボードわいわい会 Vol.5 - 作品展示[📷
+  2023-11 天下一キーボードわいわい会 Vol.5 - 作品展示, [📷
   photo](https://twitter.com/74th/status/1720650366759718950)
 - ⚡︎
-  2023-09 ピコケット 3 - サークル参加 [📷
+  2023-09 ピコケット 3 - サークル参加, [📷
   photo](https://twitter.com/74th/status/1705405422776242286)
 - ⌨
-  2023-03 天下一キーボードわいわい会 Vol.4 - 作品展示[📷
+  2023-03 天下一キーボードわいわい会 Vol.4 - 作品展示, [📷
   photo](https://twitter.com/74th/status/1631868894045675520)
 
 ## Tech Talks & Events 💬
