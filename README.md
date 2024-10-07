@@ -28,8 +28,10 @@ Software Engineer and Maker
 
 [<img src="images/books/vscode-practical-guide-2nd.jpg" width="15%"/>](https://gihyo.jp/book/2024/978-4-297-13909-4)
 [<img src="images/books/vscode-practical-guide.jpg" width="15%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)
+[<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642411.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202411)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642401.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202401)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)
+[<img src="images/books/usb-1st-book.png" width="12%"/>](https://74th.booth.pm/items/5826037)
 [<img src="images/books/wch-diy-electronics.png" width="12%"/>](https://74th.booth.pm/items/5261331)
 [<img src="images/books/neopixel-book.png" width="12%"/>](https://74th.booth.pm/items/4799571)
 [<img src="images/books/saturday-pico-book.png" width="12%"/>](https://74th.booth.pm/items/4161550)
@@ -45,7 +47,12 @@ Software Engineer and Maker
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
+- ⚡︎
+  2024-05 [『USB 完全に理解したー通信仕様とコントローラ編ー』技術書典 16](https://74th.booth.pm/items/5826037)
+  [🛒
+  booth](https://74th.booth.pm/items/5261331)
 - ⚡︎
   2023-11 [『WCH の IC を活用する電子工作の本』技術書典 15](https://74th.booth.pm/items/5261331)
   [🛒
@@ -87,6 +94,10 @@ Software Engineer and Maker
 
 ## Maker Products ⚡︎⌨
 
+[<img src="images/maker/g054-grove-keymouse.jpg" width="14%"/>](https://74th.booth.pm/items/6102329)
+[<img src="images/maker/g035-esp32c3-iot-server.jpg" width="14%"/>](https://74th.booth.pm/items/5896837)
+[<img src="images/maker/g043-USB_C_Solder_Tester-v2.jpg" width="14%"/>](https://74th.booth.pm/items/5812941)
+[<img src="images/maker/g044-rp2040-handsolder-supporter.jpg" width="14%"/>](https://74th.booth.pm/items/5573498)
 [<img src="images/maker/g040-sparrowdial.jpg" width="14%"/>](https://74th.booth.pm/items/5525751)
 [<img src="images/maker/g039-sparrowg21.jpg" width="14%"/>](https://74th.booth.pm/items/5525776)
 [<img src="images/maker/g037-sparrow60c.jpg" width="14%"/>](https://74th.booth.pm/items/5525726)
@@ -110,6 +121,18 @@ Software Engineer and Maker
 [<img src="images/maker/g002-monteserrat.jpg" width="14%"/>](https://74th.booth.pm/items/2731094)
 [<img src="images/maker/g001-sparrow62.jpg" width="14%"/>](https://74th.booth.pm/items/2525427)
 
+- ⚡︎
+  2024-09『CH9329 使用キーボード、マウスエミュレータ Grove モジュールキット』[🛒
+  booth](https://74th.booth.pm/items/6102329)
+- ⚡︎
+  2024-08『ESP32-C3 IoT Server キット』（つくまた 1）[🛒
+  booth](https://74th.booth.pm/items/5896837)
+- ⚡︎
+  2024-06『USB 2.0 Type-C ソケット実装テスタ v2』[🛒
+  booth](https://74th.booth.pm/items/5812941)
+- ⚡︎
+  2024-03『RP2040 手はんだ実装位置合わせ治具』[🛒
+  booth](https://74th.booth.pm/items/5573498)
 - ⌨
   2024-03『SparrowDial』（キーケット 1）M5Dial をトラックパッドとして使う自作キーボードキット[🛒
   booth](https://74th.booth.pm/items/5525751)
@@ -207,6 +230,14 @@ Software Engineer and Maker
 ## Tech Talks & Events 💬
 
 - 🧑‍💻
+  2024-09『VS Code で F1〜12 キーつかってますか？』[VS Code Meetup #31](https://vscode.connpass.com/event/328219/) （[Movie](https://www.youtube.com/watch?v=VSiY1eK5G64), [Slide](https://speakerdeck.com/74th/do-you-use-the-f1-12-keys-in-vs-code)）
+- 🧑‍💻
+  2024-09『CH32V シリーズを楽しもう(74th の場合)』[Suzuno32RV 発売記念 スズの基板パーティ](https://twitter.com/verylowfreq/status/1839142852518948913) （[Slide](https://speakerdeck.com/74th/enjoy-ch32v-series)）
+- 🧑‍💻
+  2024-05『面倒なことは GitHubCopilot にやらせたい…』[VS Code Meetup #28](https://vscode.connpass.com/event/310672/) （[Movie](https://www.youtube.com/watch?v=VojURGLmrcE), [Slide](https://speakerdeck.com/74th/mian-dao-nakotohagithubcopilotniyarasetai)）
+- 🧑‍💻
+  2024-05『面倒なことは GitHubCopilot にやらせたい…』[VS Code Meetup #28](https://vscode.connpass.com/event/310672/) （[Movie](https://www.youtube.com/watch?v=VojURGLmrcE), [Slide](https://speakerdeck.com/74th/mian-dao-nakotohagithubcopilotniyarasetai)）
+- 🧑‍💻
   2024-01『『新改訂版 VS Code 実践ガイド』の改訂要素からみる VS Code の進化』[VS Code Meetup #27](https://vscode.connpass.com/event/303633/) （[Movie](https://www.youtube.com/watch?v=2YH3mhkkJcw&t=1385s), [Slide](https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua)）
 - 🧑‍💻
   2023-08『並列処理を Go/Rust/Kotlin/Python/JS で解説！思想の違いを体感しよう』[GO TechTalk #21](https://jtx.connpass.com/event/289233/) 企画、「Go 編「Go ルーチンで並列処理を実装しよう」」発表（[Movie](https://www.youtube.com/watch?v=m-1Drlk2G8w&t=172s), [Slide](https://speakerdeck.com/mot_techtalk/go-techtalk-21)）
@@ -242,7 +273,7 @@ Software Engineer and Maker
 ## Jobs
 
 - 2021-12 ~ 人事システム系スタートアップ技術顧問(副業)
-- 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Mobility Technologies（事業継承）
+- (現職) 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Mobility Technologies（事業継承）~ GO 株式会社（社名変更）
   - タクシー乗務員向け AI 探客ナビ（サーバサイドアーキテクト、コア AI 以外で AI に必要な部分全般）
   - タクシー配車マッチングシステム（サーバサイドアーキテクト、エンジニア）
 - 2016-04 ~ 2018-03 大学ベンチャー（エンジニア派遣）
