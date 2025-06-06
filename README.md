@@ -28,9 +28,12 @@ Software Engineer and Maker
 
 [<img src="images/books/vscode-practical-guide-2nd.jpg" width="15%"/>](https://gihyo.jp/book/2024/978-4-297-13909-4)
 [<img src="images/books/vscode-practical-guide.jpg" width="15%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)
+[<img src="https://gihyo.jp/assets/images/cover/2025/642503.jpg" width="12%"/>](https://gihyo.jp/assets/images/cover/2025/642503.jpg)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642411.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202411)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642401.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202401)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)
+[<img src="images/books/ch32v003-book.png" width="12%"/>](https://74th.booth.pm/items/6934072)
+[<img src="images/books/iot_remocon_book.png" width="12%"/>](https://74th.booth.pm/items/6201064)
 [<img src="images/books/usb-1st-book.png" width="12%"/>](https://74th.booth.pm/items/5826037)
 [<img src="images/books/wch-diy-electronics.png" width="12%"/>](https://74th.booth.pm/items/5261331)
 [<img src="images/books/neopixel-book.png" width="12%"/>](https://74th.booth.pm/items/4799571)
@@ -47,12 +50,21 @@ Software Engineer and Maker
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-02 [ 『Software Design 2025 年 3 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202503)「拡大版大特集 コードエディタ大研究 / Part 1 第 1 章：第1章：Visual Studio Code 個人でもチームでも使いやすいエディタ 誰もが快適に使えるように考慮されたデザイン」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [ 『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
 - ⚡︎
+  2025-05 [『CH32V00かカイハツガイドブック』技術書典 18](https://74th.booth.pm/items/6934072)
+  [🛒
+  booth](https://74th.booth.pm/items/6934072)
+- ⚡︎
+  2024-11 [『自宅IoTリモコン全部作る』技術書典 17](https://74th.booth.pm/items/6201064)
+  [🛒
+  booth](https://74th.booth.pm/items/6201064)
+- ⚡︎
   2024-05 [『USB 完全に理解したー通信仕様とコントローラ編ー』技術書典 16](https://74th.booth.pm/items/5826037)
   [🛒
-  booth](https://74th.booth.pm/items/5261331)
+  booth](https://74th.booth.pm/items/5826037)
 - ⚡︎
   2023-11 [『WCH の IC を活用する電子工作の本』技術書典 15](https://74th.booth.pm/items/5261331)
   [🛒
@@ -94,6 +106,10 @@ Software Engineer and Maker
 
 ## Maker Products ⚡︎⌨
 
+[<img src="images/maker/g059-sparrow-sv3.jpg" width="14%"/>](https://74th.booth.pm/items/6655442)
+[<img src="images/maker/g056-rp2350a-full.jpg" width="14%"/>](https://74th.booth.pm/items/6483839)
+[<img src="images/maker/g060-7seg-grove.jpg" width="14%"/>](https://74th.booth.pm/items/6412203)
+[<img src="images/maker/g053-usb_switch_adapter.jpeg" width="14%"/>](https://74th.booth.pm/items/6291652)
 [<img src="images/maker/g054-grove-keymouse.jpg" width="14%"/>](https://74th.booth.pm/items/6102329)
 [<img src="images/maker/g035-esp32c3-iot-server.jpg" width="14%"/>](https://74th.booth.pm/items/5896837)
 [<img src="images/maker/g043-USB_C_Solder_Tester-v2.jpg" width="14%"/>](https://74th.booth.pm/items/5812941)
@@ -121,6 +137,18 @@ Software Engineer and Maker
 [<img src="images/maker/g002-monteserrat.jpg" width="14%"/>](https://74th.booth.pm/items/2731094)
 [<img src="images/maker/g001-sparrow62.jpg" width="14%"/>](https://74th.booth.pm/items/2525427)
 
+- ⚡︎
+  2025-03『SparrowS v3』分割自作キーボードキット [🛒
+  booth](https://74th.booth.pm/items/6655442)
+- ⚡︎
+  2025-01『RP2350A手はんだ実装挑戦開発ボードキット』[🛒
+  booth](https://74th.booth.pm/items/6483839)
+- ⚡︎
+  2024-12『7Seg Grove』[🛒
+  booth](https://74th.booth.pm/items/6412203)
+- ⚡︎
+  2024-11『USB Switch Adapter』[🛒
+  booth](https://74th.booth.pm/items/6291652)
 - ⚡︎
   2024-09『CH9329 使用キーボード、マウスエミュレータ Grove モジュールキット』[🛒
   booth](https://74th.booth.pm/items/6102329)
