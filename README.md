@@ -269,8 +269,7 @@ Software Engineer and Maker
 
 ## Tech Talks & Events 💬
 
-- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>
-  2025-06『VS Code Update for GitHub Copilot』[AI Codingを極める会 - VS Code Meetup × GitHub dockyard](https://vscode.connpass.com/event/358179/) （[Movie](https://www.youtube.com/live/pOYUgAn4qZM?t=400&si=eNU3NQUgYImcttZ0), [Slide](https://speakerdeck.com/74th/vs-code-update-for-github-copilot)）
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/> 2025-06『VS Code Update for GitHub Copilot』 [AI Codingを極める会 - VS Code Meetup × GitHub dockyard](https://vscode.connpass.com/event/358179/) （[Movie](https://www.youtube.com/live/pOYUgAn4qZM?t=400&si=eNU3NQUgYImcttZ0), [Slide](https://speakerdeck.com/74th/vs-code-update-for-github-copilot)）
 - ⌨
   2025-05『「それはそう」座談会』パネル登壇 [天下一キーボードわいわい会 Vol.8](https://tenkey.connpass.com/event/349566/) （[Movie](https://www.youtube.com/live/SURfcubnvWU?si=r3JlfW-dH4iya0FW&t=7197)）
 - ⚡︎
