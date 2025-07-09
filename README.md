@@ -50,9 +50,9 @@ Software Engineer and Maker
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
-- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-02 [ 『Software Design 2025 年 3 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202503)「拡大版大特集 コードエディタ大研究 / Part 1 第 1 章：第1章：Visual Studio Code 個人でもチームでも使いやすいエディタ 誰もが快適に使えるように考慮されたデザイン」寄稿
-- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [ 『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
-- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [ 『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-02 [『Software Design 2025 年 3 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202503)「拡大版大特集 コードエディタ大研究 / Part 1 第 1 章：第1章：Visual Studio Code 個人でもチームでも使いやすいエディタ 誰もが快適に使えるように考慮されたデザイン」寄稿
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
 - ⚡︎
   2025-05 [『CH32V00かカイハツガイドブック』技術書典 18](https://74th.booth.pm/items/6934072)
   [🛒
@@ -269,13 +269,19 @@ Software Engineer and Maker
 
 ## Tech Talks & Events 💬
 
-- 🧑‍💻
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>
+  2025-06『VS Code Update for GitHub Copilot』[AI Codingを極める会 - VS Code Meetup × GitHub dockyard](https://vscode.connpass.com/event/358179/) （[Movie](https://www.youtube.com/live/pOYUgAn4qZM?t=400&si=eNU3NQUgYImcttZ0), [Slide](https://speakerdeck.com/74th/vs-code-update-for-github-copilot)）
+- ⌨
+  2025-05『「それはそう」座談会』パネル登壇 [天下一キーボードわいわい会 Vol.8](https://tenkey.connpass.com/event/349566/) （[Movie](https://www.youtube.com/live/SURfcubnvWU?si=r3JlfW-dH4iya0FW&t=7197)）
+- ⚡︎
+  2025-02『AIをプロダクトに実装するならAPIで分離しよう 〜タクシーアプリ『GO』のアーキテクチャ実例紹介〜』[Postman API Night Tokyo 2025 Winter](https://postman.connpass.com/event/338064/) （[Slide](https://speakerdeck.com/74th/ai-service-api-architecture)）
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>
   2024-09『VS Code で F1〜12 キーつかってますか？』[VS Code Meetup #31](https://vscode.connpass.com/event/328219/) （[Movie](https://www.youtube.com/watch?v=VSiY1eK5G64), [Slide](https://speakerdeck.com/74th/do-you-use-the-f1-12-keys-in-vs-code)）
-- 🧑‍💻
+- ⚡︎
   2024-09『CH32V シリーズを楽しもう(74th の場合)』[Suzuno32RV 発売記念 スズの基板パーティ](https://twitter.com/verylowfreq/status/1839142852518948913) （[Slide](https://speakerdeck.com/74th/enjoy-ch32v-series)）
 - 🧑‍💻
   2024-05『面倒なことは GitHubCopilot にやらせたい…』[VS Code Meetup #28](https://vscode.connpass.com/event/310672/) （[Movie](https://www.youtube.com/watch?v=VojURGLmrcE), [Slide](https://speakerdeck.com/74th/mian-dao-nakotohagithubcopilotniyarasetai)）
-- 🧑‍💻
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>
   2024-01『『新改訂版 VS Code 実践ガイド』の改訂要素からみる VS Code の進化』[VS Code Meetup #27](https://vscode.connpass.com/event/303633/) （[Movie](https://www.youtube.com/watch?v=2YH3mhkkJcw&t=1385s), [Slide](https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua)）
 - 🧑‍💻
   2023-08『並列処理を Go/Rust/Kotlin/Python/JS で解説！思想の違いを体感しよう』[GO TechTalk #21](https://jtx.connpass.com/event/289233/) 企画、「Go 編「Go ルーチンで並列処理を実装しよう」」発表（[Movie](https://www.youtube.com/watch?v=m-1Drlk2G8w&t=172s), [Slide](https://speakerdeck.com/mot_techtalk/go-techtalk-21)）
