@@ -320,7 +320,7 @@ Software Engineer and Maker
 - 🧑‍💻
   2018-12『AWS の提供する Database Freedom からジャストな DB を考える』[DeNA re:Invent 2018 報告会](https://dena.connpass.com/event/110918/)（[slide](https://speakerdeck.com/74th/awsfalseti-gong-surudatabase-freedomkaraziyasutonadbwokao-eru)）
 
-## The articles that introduced me
+## 紹介された記事・書籍
 
 - 2024-08 『ぺかそ&びあっこが厳選！2024 年最新クセ強自作キーボード』（[HHKB Life(Web)](https://happyhackingkb.com/jp/life/hhkb_life75.html)）M5Dial 紹介
 - 2022-12 『ちょっと気になる隣の技術畑 第 9 回 キーボードに魅せられた人々』（[WEB+DB PRESS Vol.132](https://gihyo.jp/magazine/wdpress/archive/2023/vol132), [gihyo.jp(Web 記事)](https://gihyo.jp/dev/serial/01/technical_field/0009)）インタビュイー
