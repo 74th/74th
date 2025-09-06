@@ -269,6 +269,7 @@ Software Engineer and Maker
 
 ## Tech Talks & Events 💬
 
+- <img src="./images/icons/githubcopilot.svg" height="15" width="15"/> 2025-08『GitHub Copilotの全体像と活用のヒント AI駆動開発の最初の一歩』 [Findy](https://findy.connpass.com/event/359954/) （[Movie](https://findy-code.io/events/xjb2NH7xQ1k9m?fr=event_archive_20250807), [Slide](https://speakerdeck.com/74th/github-copilot-an-overview-and-tips-for-effective-use), [article](https://findy-code.io/media/articles/event-github-copilot-250807)）
 - <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/> 2025-06『VS Code Update for GitHub Copilot』 [AI Codingを極める会 - VS Code Meetup × GitHub dockyard](https://vscode.connpass.com/event/358179/) （[Movie](https://www.youtube.com/live/pOYUgAn4qZM?t=400&si=eNU3NQUgYImcttZ0), [Slide](https://speakerdeck.com/74th/vs-code-update-for-github-copilot)）
 - ⌨
   2025-05『「それはそう」座談会』パネル登壇 [天下一キーボードわいわい会 Vol.8](https://tenkey.connpass.com/event/349566/) （[Movie](https://www.youtube.com/live/SURfcubnvWU?si=r3JlfW-dH4iya0FW&t=7197)）
