@@ -242,6 +242,9 @@ Software Engineer and Maker
 
 ## Maker Events ⚡︎⌨
 
+
+- ⚡︎
+  2024-07 つくまた2 - サークル参加, [X Post](https://x.com/74th/status/1946757082448814231)
 - ⌨
   2025-05 天下一キーボードわいわい会 Vol.8 - 作品展示, [Blog](https://74th.hateblo.jp/entry/2025/05/05/111133)
 - ⌨
