@@ -286,8 +286,7 @@ Software Engineer and Maker
 - ⚡︎
   2024-09『CH32V シリーズを楽しもう(74th の場合)』[Suzuno32RV 発売記念 スズの基板パーティ](https://twitter.com/verylowfreq/status/1839142852518948913) （[Slide](https://speakerdeck.com/74th/enjoy-ch32v-series)）
 - <img src="./images/icons/githubcopilot.svg" height="15" width="15"/> 2024-05『面倒なことは GitHubCopilot にやらせたい…』[VS Code Meetup #28](https://vscode.connpass.com/event/310672/) （[Movie](https://www.youtube.com/watch?v=VojURGLmrcE), [Slide](https://speakerdeck.com/74th/mian-dao-nakotohagithubcopilotniyarasetai)）
-- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>
-  2024-01『『新改訂版 VS Code 実践ガイド』の改訂要素からみる VS Code の進化』[VS Code Meetup #27](https://vscode.connpass.com/event/303633/) （[Movie](https://www.youtube.com/watch?v=2YH3mhkkJcw&t=1385s), [Slide](https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua)）
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/> 2024-01『『新改訂版 VS Code 実践ガイド』の改訂要素からみる VS Code の進化』[VS Code Meetup #27](https://vscode.connpass.com/event/303633/) （[Movie](https://www.youtube.com/watch?v=2YH3mhkkJcw&t=1385s), [Slide](https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua)）
 - 🧑‍💻
   2023-08『並列処理を Go/Rust/Kotlin/Python/JS で解説！思想の違いを体感しよう』[GO TechTalk #21](https://jtx.connpass.com/event/289233/) 企画、「Go 編「Go ルーチンで並列処理を実装しよう」」発表（[Movie](https://www.youtube.com/watch?v=m-1Drlk2G8w&t=172s), [Slide](https://speakerdeck.com/mot_techtalk/go-techtalk-21)）
 - 🧑‍💻
