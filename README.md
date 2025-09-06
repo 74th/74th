@@ -164,13 +164,13 @@ Software Engineer and Maker
   2024-03『RP2040 手はんだ実装位置合わせ治具』[🛒
   booth](https://74th.booth.pm/items/5573498)
 - ⌨
-  2024-03『SparrowDial』（キーケット 1）M5Dial をトラックパッドとして使う自作キーボードキット[🛒
+  2024-03『SparrowDial』（キーケット2024）M5Dial をトラックパッドとして使う自作キーボードキット[🛒
   booth](https://74th.booth.pm/items/5525751)
 - 🎮
-  2024-03『SparrowG21』（キーケット 1）レバーレススティック付きアケコンキット[🛒
+  2024-03『SparrowG21』（キーケット2024）レバーレススティック付きアケコンキット[🛒
   booth](https://74th.booth.pm/items/5525776)
 - ⌨
-  2024-03『Sparrow60C』（キーケット 1）ジョイスティック付き自作キーボードキット[🛒
+  2024-03『Sparrow60C』（キーケット2024）ジョイスティック付き自作キーボードキット[🛒
   booth](https://74th.booth.pm/items/5525726)
 - ⚡︎
   2024-01『74th. CH32V203 ProMicro Like』CH32V203 搭載 ProMicro ピン互換ボード[🛒
