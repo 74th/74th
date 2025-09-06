@@ -140,7 +140,7 @@ Software Engineer and Maker
 - ⚡︎
   2025-08『Turn Your Phone into a PC Keyboard & Mouse with AtomS3U』M5 AtomM3Uを使ったWiFI経由のUSBキーボード&マウス [Article](https://www.hackster.io/74th/turn-your-phone-into-a-pc-keyboard-mouse-with-atoms3u-39a13c)
 - ⚡︎
-  2025-03『SparrowS v3』分割自作キーボードキット（キーケット2025） [🛒
+  2025-03『SparrowS v3』（キーケット2025）分割自作キーボードキット [🛒
   booth](https://74th.booth.pm/items/6655442)
 - ⚡︎
   2025-01『RP2350A手はんだ実装挑戦開発ボードキット』[🛒
