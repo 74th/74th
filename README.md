@@ -54,9 +54,10 @@ Software Engineer and Maker
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
 - ⚡︎
-  2025-05 [『CH32V00かカイハツガイドブック』技術書典 18](https://74th.booth.pm/items/6934072)
+  2025-05 [『CH32V003開発ガイドブック』技術書典 18](https://74th.booth.pm/items/6934072)
   [🛒
-  booth](https://74th.booth.pm/items/6934072)
+  booth](https://74th.booth.pm/items/6934072) [🛒
+  SwitchScience](https://www.switch-science.com/products/10547)
 - ⚡︎
   2024-11 [『自宅IoTリモコン全部作る』技術書典 17](https://74th.booth.pm/items/6201064)
   [🛒
