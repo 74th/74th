@@ -4,7 +4,6 @@ Software Engineer and Maker
 - <a href="https://github.com/74th"><img height="15" width="15" src="./images/icons/github.svg"/>GitHub: 74th</a>
 - <a href="https://74th.hateblo.jp/">Blog @74th の制作ログ(Japanese)</a>
 - <a href="https://74th.booth.pm/">74th Books & Gadgets Shop (Tech fun Books and Maker Products)</a>
-- <a href="https://www.youtube.com/@74th-tech">@74th DIY Electronics Channel(YouTube)</a>
 
 <!-- ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical) -->
 
