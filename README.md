@@ -28,10 +28,12 @@ Software Engineer and Maker
 
 [<img src="images/books/vscode-practical-guide-2nd.jpg" width="15%"/>](https://gihyo.jp/book/2024/978-4-297-13909-4)
 [<img src="images/books/vscode-practical-guide.jpg" width="15%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)
-[<img src="https://gihyo.jp/assets/images/cover/2025/642503.jpg" width="12%"/>](https://gihyo.jp/assets/images/cover/2025/642503.jpg)
+[<img src="https://gihyo.jp/assets/images/cover/2025/642511.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2025/202511)
+[<img src="https://gihyo.jp/assets/images/cover/2025/642503.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2025/202503)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642411.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202411)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642401.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202401)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)
+[<img src="images/books/devcontainer-guidebook-2nd.png" width="12%"/>](https://74th.booth.pm/items/7605652)
 [<img src="images/books/ch32v003-book.png" width="12%"/>](https://74th.booth.pm/items/6934072)
 [<img src="images/books/iot_remocon_book.png" width="12%"/>](https://74th.booth.pm/items/6201064)
 [<img src="images/books/usb-1st-book.png" width="12%"/>](https://74th.booth.pm/items/5826037)
@@ -50,9 +52,14 @@ Software Engineer and Maker
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-10 [『Software Design 2025 年 10 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202511)「第 1 特集 AI開発ツール大整理 / 第1章：GitHub Copilot
+開発フローに自然に溶け込むサポート／エージェント機能」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-02 [『Software Design 2025 年 3 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202503)「拡大版大特集 コードエディタ大研究 / Part 1 第 1 章：第1章：Visual Studio Code 個人でもチームでも使いやすいエディタ 誰もが快適に使えるように考慮されたデザイン」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-11 [『DevContainer実践ガイド』技術書典 19](https://74th.booth.pm/items/7605652)
+  [🛒
+  booth](https://74th.booth.pm/items/7605652)
 - ⚡︎
   2025-05 [『CH32V003開発ガイドブック』技術書典 18](https://74th.booth.pm/items/6934072)
   [🛒
@@ -276,6 +283,7 @@ Software Engineer and Maker
 
 ## Tech Talks & Events 💬
 
+- <img src="./images/icons/githubcopilot.svg" height="15" width="15"/> 2025-12『GitHub Copilotを使いこなす 実例に学ぶAIコーディング活用術』 [Findy](https://findy.connpass.com/event/376448/) （[Movie](https://findy-code.io/events/Ie5IPUat7pYE4?fr=event_archive_20251212), [Slide](https://speakerdeck.com/74th/mastering-github-copilot-practical-examples-of-ai-powered-coding), [Q&A回答集](https://findy-code.io/media/articles/event-copilot-qa)）
 - <img src="./images/icons/githubcopilot.svg" height="15" width="15"/> 2025-08『GitHub Copilotの全体像と活用のヒント AI駆動開発の最初の一歩』 [Findy](https://findy.connpass.com/event/359954/) （[Movie](https://findy-code.io/events/xjb2NH7xQ1k9m?fr=event_archive_20250807), [Slide](https://speakerdeck.com/74th/github-copilot-an-overview-and-tips-for-effective-use), [article](https://findy-code.io/media/articles/event-github-copilot-250807)）
 - <img src="./images/icons/githubcopilot.svg" height="15" width="15"/> 2025-07『書いた技術同人誌をMCP Seever化したら趣味の組込開発が捗った話』 [GitHub Copilot Meetup Tokyo](https://aiau.connpass.com/event/357272/) （[Movie](https://www.youtube.com/live/M-rvq2LJKlU?si=DB7oUtTRCdDWAPZ7&t=6197), [Slide](https://speakerdeck.com/74th/from-technical-doujinshi-to-mcp-server-with-demo)）
 - <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/> 2025-06『VS Code Update for GitHub Copilot』 [AI Codingを極める会 - VS Code Meetup × GitHub dockyard](https://vscode.connpass.com/event/358179/) （[Movie](https://www.youtube.com/live/pOYUgAn4qZM?t=400&si=eNU3NQUgYImcttZ0), [Slide](https://speakerdeck.com/74th/vs-code-update-for-github-copilot)）
