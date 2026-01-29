@@ -323,7 +323,7 @@ Software Engineer and Maker
 - ⚡︎
   2020-01 『タクシー xAI を支える Kubernetes と AI データパイプラインの信頼性の取り組みについて』[SRE NEXT 2020](https://sre-next.dev/)（[slide](http://www.slideshare.net/dena_tech/xaikubernetesai-sre-next-2020?from_m_app=android)）
 - <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>2020-01 『実践 VSCode リモート SSH・コンテナ開発機能』[VSCodeMeetup#2](https://vscode.connpass.com/event/160083/)（[slide](https://speakerdeck.com/74th/shi-jian-vscoderimotosshkontenakai-fa-ji-neng)）
-- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>2019-12 『VSCode リモート開発機能を使おう』[VSCodeMeetup#1](https://vscode.connpass.com/event/155068/)（[slide](https://speakerdeck.com/74th/vscoderimotokai-fa-ji-neng-ru-men))
+- <img src="./images/icons/visualstudiocode.svg" height="15" width="15"/>2019-12 『VSCode リモート開発機能を使おう』[VSCodeMeetup#1](https://vscode.connpass.com/event/155068/) ([slide](https://speakerdeck.com/74th/vscoderimotokai-fa-ji-neng-ru-men))
 - 🧑‍💻
   2019-09『Stateless Back-end server design with GKE and Cloud Memorystore by Atsushi Morimoto(DeNA)』[GCPUG Tokyo September 2019](https://gcpug-tokyo.connpass.com/event/143454/)（[slide](https://speakerdeck.com/74th/stateless-back-end-server-design-with-gke-and-cloud-memorystore), [GCPUG September 2019 を開催しました。 by @papagen40734986](https://link.medium.com/k7xjpDhkp5)）
 - 🧑‍💻
