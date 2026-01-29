@@ -4,6 +4,7 @@ Software Engineer and Maker
 - <a href="https://github.com/74th"><img height="15" width="15" src="./images/icons/github.svg"/>GitHub: 74th</a>
 - <a href="https://74th.hateblo.jp/">Blog @74th の制作ログ(Japanese)</a>
 - <a href="https://74th.booth.pm/">74th Books & Gadgets Shop (Tech fun Books and Maker Products)</a>
+- <a href="https://showcase.74th.tech/">74th's Creation Showcase & Shop All Catalog</a>
 
 <!-- ![74th's github stats](https://github-readme-stats.vercel.app/api?username=74th&show_icons=true&theme=radical) -->
 
@@ -252,6 +253,8 @@ Software Engineer and Maker
 ## Maker Events ⚡︎⌨
 
 
+- ⌨
+  2025-11 天下一キーボードわいわい会 Vol.9 - 作品展示, [Blog](https://74th.hateblo.jp/entry/tenkey9)
 - ⚡︎
   2024-07 つくまた2 - サークル参加, [📷
   Photo](https://x.com/74th/status/1946757082448814231)
@@ -333,10 +336,10 @@ Software Engineer and Maker
 
 ## Jobs
 
-- 2021-12 ~ 人事システム系スタートアップ技術顧問(副業)
 - (現職) 2018-05 ~ 2020-03 DeNA Automotive, 2020-04 ~ Mobility Technologies（事業継承）~ GO 株式会社（社名変更）
   - タクシー乗務員向け AI 探客ナビ（サーバサイドアーキテクト、コア AI 以外で AI に必要な部分全般）
   - タクシー配車マッチングシステム（サーバサイドアーキテクト、エンジニア）
+- 2021-12 ~ 2023-12 人事システム系スタートアップ技術顧問(副業)
 - 2016-04 ~ 2018-03 大学ベンチャー（エンジニア派遣）
   - 通信網リアルタイムデータ可視化システム（アーキテクト）
   - DB エンジン研究開発（研究開発スタッフ）
