@@ -263,7 +263,8 @@ Software Engineer and Maker
 
 ## Maker Events ⚡︎⌨
 
-
+- ⌨
+  2026-02 天下一キーボードわいわい会 Vol.10 - 作品展示, [X](https://x.com/74th/status/2020346016143446143)
 - ⌨
   2025-11 天下一キーボードわいわい会 Vol.9 - 作品展示, [Blog](https://74th.hateblo.jp/entry/tenkey9)
 - ⚡︎
