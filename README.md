@@ -26,37 +26,44 @@ Software Engineer and Maker
 
 ## Tech Books 📖
 
-[<img src="images/books/vscode-practical-guide-2nd.jpg" width="15%"/>](https://gihyo.jp/book/2024/978-4-297-13909-4)
+[<img src="images/books/vscode-practical-guide-2nd.png" width="15%"/>](https://gihyo.jp/book/2024/978-4-297-13909-4)
 [<img src="images/books/vscode-practical-guide.jpg" width="15%"/>](https://gihyo.jp/book/2020/978-4-297-11201-1)
+[<img src="https://gihyo.jp/assets/images/cover/2026/642606.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2026/202606)
 [<img src="https://gihyo.jp/assets/images/cover/2025/642511.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2025/202511)
 [<img src="https://gihyo.jp/assets/images/cover/2025/642503.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2025/202503)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642411.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202411)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2024/642401.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2024/202401)
 [<img src="https://image.gihyo.co.jp/assets/images/cover/2022/642210.jpg" width="12%"/>](https://gihyo.jp/magazine/SD/archive/2022/202210)
-[<img src="images/books/devcontainer-guidebook-2nd.png" width="12%"/>](https://74th.booth.pm/items/7605652)
-[<img src="images/books/ch32v003-book.png" width="12%"/>](https://74th.booth.pm/items/6934072)
-[<img src="images/books/iot_remocon_book.png" width="12%"/>](https://74th.booth.pm/items/6201064)
-[<img src="images/books/usb-1st-book.png" width="12%"/>](https://74th.booth.pm/items/5826037)
-[<img src="images/books/wch-diy-electronics.png" width="12%"/>](https://74th.booth.pm/items/5261331)
-[<img src="images/books/neopixel-book.png" width="12%"/>](https://74th.booth.pm/items/4799571)
-[<img src="images/books/saturday-pico-book.png" width="12%"/>](https://74th.booth.pm/items/4161550)
-[<img src="images/books/4gadgets-book.png" width="12%"/>](https://74th.booth.pm/items/4123011)
-[<img src="images/books/vscode-debug-book2.png" width="12%"/>](https://74th.booth.pm/items/3338895)
-[<img src="images/books/devcontainer-guide.png" width="12%"/>](https://74th.booth.pm/items/3338895)
-[<img src="images/books/vscode-debug-book1.jpg" width="12%"/>](https://nextpublishing.jp/book/10255.html)
-[<img src="images/books/vscode-ninja-guide.png" width="12%"/>](https://74th.booth.pm/items/1575560)
-[<img src="images/books/vscode-remote-book.png" width="12%"/>](https://74th.booth.pm/items/1575560)
-[<img src="images/books/xonsh-book.png" width="12%"/>](https://74th.booth.pm/items/1575560)
-[<img src="images/books/invoke-book.png" width="10%"/>](https://74th.booth.pm/items/1575560)
-[<img src="images/books/golang-book.png" width="10%"/>](https://74th.booth.pm/items/1575560)
+[<img src="images/books/b020-stackchan-book.png" width="12%"/>](https://74th.booth.pm/items/7605652)
+[<img src="images/books/b019-devcontainer-guidebook-2nd.png" width="12%"/>](https://74th.booth.pm/items/7605652)
+[<img src="images/books/b018-ch32v003-book.png" width="12%"/>](https://74th.booth.pm/items/6934072)
+[<img src="images/books/b017-iot_remocon_book.png" width="12%"/>](https://74th.booth.pm/items/6201064)
+[<img src="images/books/b016-usb-1st-book.png" width="12%"/>](https://74th.booth.pm/items/5826037)
+[<img src="images/books/b014-wch-diy-electronics.png" width="12%"/>](https://74th.booth.pm/items/5261331)
+[<img src="images/books/b013-neopixel-book.png" width="12%"/>](https://74th.booth.pm/items/4799571)
+[<img src="images/books/b012-saturday-pico-book.png" width="12%"/>](https://74th.booth.pm/items/4161550)
+[<img src="images/books/b011-4gadgets-book.png" width="12%"/>](https://74th.booth.pm/items/4123011)
+[<img src="images/books/b010-vscode-debug-book2.png" width="12%"/>](https://74th.booth.pm/items/3338895)
+[<img src="images/books/b008-devcontainer-guide.png" width="12%"/>](https://74th.booth.pm/items/3338895)
+[<img src="images/books/vscode-debug-book1.png" width="12%"/>](https://nextpublishing.jp/book/10255.html)
+[<img src="images/books/b007-vscode-ninja-guide.png" width="12%"/>](https://74th.booth.pm/items/1575560)
+[<img src="images/books/b006-vscode-remote-book.png" width="12%"/>](https://74th.booth.pm/items/1575560)
+[<img src="images/books/b005-xonsh-book.png" width="12%"/>](https://74th.booth.pm/items/1575560)
+[<img src="images/books/b003-invoke-book.png" width="10%"/>](https://74th.booth.pm/items/1575560)
+[<img src="images/books/b002-golang-book.png" width="10%"/>](https://74th.booth.pm/items/1575560)
 
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-01 [『改訂新版 Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2024/978-4-297-13909-4)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2020-02 [『Visual Studio Code 実践ガイド』技術評論社](https://gihyo.jp/book/2020/978-4-297-11201-1)
+- <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2026-05 [『Software Design 2026 年 6 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2026/202606)「第 1 特集 GitHub Copilot完全入門 / 第2章：VS Codeで始めるGitHub Copilot 多彩な機能を使い分けて、エージェントを賢く働かせよう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-10 [『Software Design 2025 年 10 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202511)「第 1 特集 AI開発ツール大整理 / 第1章：GitHub Copilot
 開発フローに自然に溶け込むサポート／エージェント機能」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-02 [『Software Design 2025 年 3 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2025/202503)「拡大版大特集 コードエディタ大研究 / Part 1 第 1 章：第1章：Visual Studio Code 個人でもチームでも使いやすいエディタ 誰もが快適に使えるように考慮されたデザイン」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2024-10 [『Software Design 2024 年 11 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2024/202411)「第 1 特集 新世代の開発スタイル はじめての AI 駆動開発 / 第 1 章：GitHub Copilot でラクラクコーディング 単純作業は AI にサクッとやってもらおう」寄稿
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2023-12 [『Software Design 2024 年 1 月号』技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202210)「第 1 特集［目的別］Visual Studio Code 教えて！ お勧めカスタマイズ ワンランク上を目指すための拡張機能＆テクニック / 第 3 章：テスト，デバッグ］リンター，ユニットテスト，デバッグ完備の環境構築術」寄稿
+- ⚡︎
+  2026-04 [『お家AIエージェントｽﾀｯｸﾁｬﾝ召喚術』技術書典 20](https://74th.booth.pm/items/8119356)
+  [🛒
+  booth](https://74th.booth.pm/items/8119356)
 - <img height="15" width="15" src="./images/icons/visualstudiocode.svg"/> 2025-11 [『DevContainer実践ガイド』技術書典 19](https://74th.booth.pm/items/7605652)
   [🛒
   booth](https://74th.booth.pm/items/7605652)
@@ -114,11 +121,12 @@ Software Engineer and Maker
 
 ## Maker Products ⚡︎⌨
 
+[<img src="images/maker/g068-1key_ch32v003.jpg" width="14%"/>](https://74th.hateblo.jp/entry/ch32v003-1key)
 [<img src="images/maker/g070-real_usb_keymouse_for_phone.png" width="14%"/>](https://www.hackster.io/74th/turn-your-phone-into-a-pc-keyboard-mouse-with-atoms3u-39a13c)
 [<img src="images/maker/g059-sparrow-sv3.jpg" width="14%"/>](https://74th.booth.pm/items/6655442)
 [<img src="images/maker/g056-rp2350a-full.jpg" width="14%"/>](https://74th.booth.pm/items/6483839)
 [<img src="images/maker/g060-7seg-grove.jpg" width="14%"/>](https://74th.booth.pm/items/6412203)
-[<img src="images/maker/g053-usb_switch_adapter.jpeg" width="14%"/>](https://74th.booth.pm/items/6291652)
+[<img src="images/maker/g053-usb_switch_adapter.jpg" width="14%"/>](https://74th.booth.pm/items/6291652)
 [<img src="images/maker/g054-grove-keymouse.jpg" width="14%"/>](https://74th.booth.pm/items/6102329)
 [<img src="images/maker/g035-esp32c3-iot-server.jpg" width="14%"/>](https://74th.booth.pm/items/5896837)
 [<img src="images/maker/g043-USB_C_Solder_Tester-v2.jpg" width="14%"/>](https://74th.booth.pm/items/5812941)
@@ -135,17 +143,19 @@ Software Engineer and Maker
 [<img src="images/maker/g029-usb-pd-exporter.jpg" width="14%"/>](https://74th.booth.pm/items/5077835)
 [<img src="images/maker/g027-daplink.jpg" width="14%"/>](https://74th.booth.pm/items/4916891)
 [<img src="images/maker/g020-esp32c3mini1.jpg" width="14%"/>](https://74th.booth.pm/items/4845564)
-[<img src="images/maker/g024-esp32-s3.jpeg" width="14%"/>](https://74th.booth.pm/items/4179263)
+[<img src="images/maker/g024-esp32-s3.jpg" width="14%"/>](https://74th.booth.pm/items/4179263)
 [<img src="images/maker/g017-usb-type-c-socket-tester.jpg" width="14%"/>](https://74th.booth.pm/items/4692002)
 [<img src="images/maker/g015-ch32v003-promicro.jpg" width="14%"/>](https://74th.booth.pm/items/4645948)
 [<img src="images/maker/g016-wch-linke-mini.jpg" width="14%"/>](https://74th.booth.pm/items/5022813)
-[<img src="images/maker/g011-esp32-c3.jpeg" width="14%"/>](https://74th.booth.pm/items/4378573)
+[<img src="images/maker/g011-esp32-c3.jpg" width="14%"/>](https://74th.booth.pm/items/4378573)
 [<img src="images/maker/g007-sparrow62v2.jpg" width="14%"/>](https://74th.booth.pm/items/3828479)
 [<img src="images/maker/g004-sparrow24-ble-calculator.jpg" width="14%"/>](https://74th.booth.pm/items/3338904)
 [<img src="images/maker/g003-dive9.jpg" width="14%"/>](https://booth.pm/ja/items/3168541)
 [<img src="images/maker/g002-monteserrat.jpg" width="14%"/>](https://74th.booth.pm/items/2731094)
 [<img src="images/maker/g001-sparrow62.jpg" width="14%"/>](https://74th.booth.pm/items/2525427)
 
+- ⚡︎
+  2026-01『1Key CH32V003』CH32V003を使った1%キーボード [Article](https://74th.hateblo.jp/entry/ch32v003-1key)
 - ⚡︎
   2025-08『Turn Your Phone into a PC Keyboard & Mouse with AtomS3U』M5 AtomM3Uを使ったWiFI経由のUSBキーボード&マウス [Article](https://www.hackster.io/74th/turn-your-phone-into-a-pc-keyboard-mouse-with-atoms3u-39a13c)
 - ⚡︎
